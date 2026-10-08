@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第1个维也纳国际酒店(上海浦东机场店,¥293起,18,517条点评)、第2个全季酒店(顾村公园菊联路店,广告,¥358起,680条点评)、第3个如家精选酒店(¥241起,1,619条点评)已记录。当前出现弹窗遮挡，需先关闭。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"click\", \"x\": 773, \"y\": 472, \"y\": 472, \"direction\": null, \"text\": null, \"target_description\": \"点击弹窗上的查看按钮关闭提示弹窗\"}}",
+    "valid": true
+  }
+]

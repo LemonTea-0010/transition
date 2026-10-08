@@ -1,0 +1,32 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"区间1（第1—3行）候选已记录：第3行黑色抽绳垃圾袋，¥1.51，1000+人购买。第1行最低¥1.2（天猫超市淘享卡，1万+），第2行最低¥1.31，均高于1.51。当前已滚动到页面底部（页脚区域），需向上滚动回到商品网格查看第4—6行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到商品网格查看第4—6行\"}}",
+    "valid": false,
+    "error": "S3 in_progress must explicitly say what candidate work remains unfinished"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"区间1（第1—3行）候选已记录：第3行黑色抽绳垃圾袋，¥1.51，1000+人购买。当前页面已滚动到页脚，未看到第4—6行商品，需向上滚动回到商品网格区域继续观察区间2（第3—6行）候选。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到商品网格查看第4—6行\"}}",
+    "valid": false,
+    "error": "S3 in_progress must explicitly say what candidate work remains unfinished"
+  },
+  {
+    "attempt": 3,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"区间1（第1—3行）候选已记录：第3行黑色抽绳垃圾袋，¥1.51，1000+人购买。当前页面已滚动到页脚，未看到第4—6行商品，需向上滚动回到商品网格区域继续观察区间2（第3—6行）候选。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到商品网格查看第4—6行\"}}",
+    "valid": false,
+    "error": "S3 in_progress must explicitly say what candidate work remains unfinished"
+  },
+  {
+    "attempt": 4,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"区间1（第1—3行）候选已记录：第3行黑色抽绳垃圾袋，¥1.51，1000+人购买。当前页面已滚动到页脚，未显示第4—6行商品，区间2候选仍未观察，需向上滚动回到商品网格区域继续查看第4—6行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到商品网格查看第4—6行\"}}",
+    "valid": false,
+    "error": "S3 in_progress must explicitly say what candidate work remains unfinished"
+  },
+  {
+    "attempt": 5,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"区间1（第1—3行）候选已记录：第3行黑色抽绳垃圾袋，¥1.51，1000+人购买。当前页面已滚动到页脚，未看到第4—6行商品，区间2候选仍未观察，需向上滚动回到商品网格区域。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到商品网格查看第4—6行\"}}",
+    "valid": false,
+    "error": "S3 in_progress must explicitly say what candidate work remains unfinished"
+  }
+]

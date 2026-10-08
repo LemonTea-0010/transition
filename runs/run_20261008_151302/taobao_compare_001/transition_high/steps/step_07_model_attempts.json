@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第1—3行最低价为洁厕宝¥1.31（第2行）；第3—6行最低价为抽纸¥1.41（第5行）。第6行最低价为走珠笔¥1.41（位置靠后，不改变第3—6行候选）。当前屏幕显示第7行（抽纸¥1.51、Tempo抽纸¥9.9、生字本¥1.61、大米¥14.85、洁厕宝¥1.31、专属礼包¥8）和第8行（姜料酒、POLO衫、铅笔橡皮、QQ音乐月卡、淘卡¥10、抽绳垃圾袋），第9行尚未看到，需继续滚动。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第9行商品卡片\"}}",
+    "valid": true
+  }
+]

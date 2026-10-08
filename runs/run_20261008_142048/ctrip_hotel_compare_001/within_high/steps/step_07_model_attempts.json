@@ -1,0 +1,32 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个候选全部记录完成：1) 维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起；2) 如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条点评/¥241起；3) 汉庭酒店(上海江宁路店) 4.5分/287条点评/¥258起。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，进入S4比较阶段\"}}",
+    "valid": false,
+    "error": "S3 requires at least two prior in_progress decisions recording candidates separately"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个候选全部记录完成：候选1维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起；候选2如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条点评/¥241起；候选3汉庭酒店(上海江宁路店) 4.5分/287条点评/¥258起。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，进入S4比较阶段\"}}",
+    "valid": false,
+    "error": "S3 requires at least two prior in_progress decisions recording candidates separately"
+  },
+  {
+    "attempt": 3,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个候选全部记录完成：候选1维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起；候选2如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条点评/¥241起；候选3汉庭酒店(上海江宁路店) 4.5分/287条点评/¥258起。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，进入S4比较阶段\"}}",
+    "valid": false,
+    "error": "S3 requires at least two prior in_progress decisions recording candidates separately"
+  },
+  {
+    "attempt": 4,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个候选全部记录完成：候选1维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起；候选2如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条点评/¥241起；候选3汉庭酒店(上海江宁路店) 4.5分/287条点评/¥258起。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，进入S4比较阶段\"}}",
+    "valid": false,
+    "error": "S3 requires at least two prior in_progress decisions recording candidates separately"
+  },
+  {
+    "attempt": 5,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个候选全部记录完成：候选1维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起；候选2如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条点评/¥241起；候选3汉庭酒店(上海江宁路店) 4.5分/287条点评/¥258起。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，进入S4比较阶段\"}}",
+    "valid": false,
+    "error": "S3 requires at least two prior in_progress decisions recording candidates separately"
+  }
+]

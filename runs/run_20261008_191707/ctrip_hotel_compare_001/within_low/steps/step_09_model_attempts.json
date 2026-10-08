@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已向上滚动到列表顶部附近。当前可见：顶部卡片(高级大床房无窗, ¥395起, 点评数未见)、上海浦东机场亚朵酒店(¥482, 6,716条点评)、上海虹桥温德姆酒店(¥458, 5,964条点评)、下方全季酒店(浦东机场东站店)。需继续向上滚动确认第1个卡片是否为顶部这张¥395卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"继续向上滚动到列表最顶部，确认第1个酒店卡片\"}}",
+    "valid": true
+  }
+]

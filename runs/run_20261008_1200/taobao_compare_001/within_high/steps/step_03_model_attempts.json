@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"推荐区域第一行商品均完整显示标题、价格和购买人数：手提式抽绳垃圾袋¥1.51/1000+人购买、60抖币充值¥4.55/5万+人购买、一分购卷纸¥2.01/1000+人购买。这三个是自上而下最先满足条件的候选，尚未在S3逐一记录。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作推进到S3，开始记录第一个候选商品\"}}",
+    "valid": true
+  }
+]

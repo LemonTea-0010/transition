@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"Page bottom confirmed via footer sections. All visible device deals collected; lowest three discounts identified: INSIGNIA 32\\\" F20 13%, INSIGNIA 65\\\" QF 14%, Toshiba 75\\\" Z670 15%. Final ranking output below.\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"Task complete; final ranking output\"}, \"observations\": [], \"ranking\": [{\"name\": \"INSIGNIA 32\\\" Class F20 Series Fire TV\", \"discount_percent\": 13}, {\"name\": \"INSIGNIA 65-inch Class QF Series LED 4K UHD OLED\", \"discount_percent\": 14}, {\"name\": \"Toshiba 75\\\" Z670 Series Mini-LED 4K UHD Smart Fire TV\", \"discount_percent\": 15}]}",
+    "valid": true
+  }
+]

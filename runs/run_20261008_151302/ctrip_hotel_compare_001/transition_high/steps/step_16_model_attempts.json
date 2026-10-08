@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1已确认第15个卡片为如家酒店·neo(上海浦东外高桥五洲大道店)，广告，¥271起，853条点评；第16个为建国璞隐酒店，¥856起，3,020条点评。当前屏幕显示第13—16个卡片，需继续向上滚动回到列表顶部从第1个卡片开始逐屏浏览。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"继续向上滚动回到列表顶部，从第1个酒店卡片开始逐屏浏览第1—15个酒店\"}}",
+    "valid": true
+  }
+]

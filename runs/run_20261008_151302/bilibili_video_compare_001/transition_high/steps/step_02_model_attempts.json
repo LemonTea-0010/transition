@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已识别推荐视频卡片结构：卡片含缩略图、播放量、时长、标题、UP主；广告卡片（如OiiOii）和直播卡片排除。第一屏初始视口候选已记录：「去了一趟山西。」(563.5万, 22:13, 影视飓风)、「万字合集】午夜梦回，恶灵古堡！...」(197.9万, 03:38:51)、「娘化马尔福是咋回事？爆火外网？！」(145.2万, 02:02, 梗百科)。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"回到页面顶部，恢复第一屏初始视口以确认第一屏候选\"}}",
+    "valid": true
+  }
+]

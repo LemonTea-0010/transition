@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已记录第一屏候选：影视飓风（563.5万）；第二屏候选：哪吒之魔童闹海（哔哩哔哩电影，5793.5万）。第三屏仍显示加载占位骨架，尚未观察到实际视频卡片，需继续等待内容加载。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"继续向下滚动并等待第三屏内容加载完成，观察实际可见卡片\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终报告：区间1—3行最低价候选为牙签¥1.21（第3行，1000+人购买）；区间3—6行最低价候选为抽纸¥1.41（第5行，1000+人购买）；区间6—9行最低价候选为天猫超市淘享卡¥1.2（第9行，1万+人购买）。按购买人数降序比较，淘享卡1万+人购买最多，故推荐天猫超市淘享卡¥1.2。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终推荐报告\"}}",
+    "valid": true
+  }
+]

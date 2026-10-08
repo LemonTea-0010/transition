@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选已记录：「去了一趟山西。」(563.5万, 22:13, 影视飓风)、「万字合集】午夜梦回，恶灵古堡！...」(197.9万, 03:38:51)、「娘化马尔福是咋回事？爆火外网？！」(145.2万, 02:02, 梗百科)。第一屏最高为「去了一趟山西。」563.5万。已滚动至第二屏（y=800），需观察第二屏可见卡片。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度，进入第三屏\"}}",
+    "valid": true
+  }
+]

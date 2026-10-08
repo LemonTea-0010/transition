@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"S3完成：第一屏最高为去了一趟山西563.6万/影视飓风/22:13（第一屏）；第二屏最高为幸亏我暂停的够快2110.9万/小猪佩奇/01:30（第二屏）；第三屏最高为伍六七1.0亿/哔哩哔哩国创/05:09（第三屏）。三个屏次候选均已记录，进入S4比较。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"三个屏次候选已收集完毕，进入S4比较\"}}",
+    "valid": true
+  }
+]

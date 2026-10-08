@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认行次计数：第1行=¥12.99香菇/¥6定金/¥1.51深井盐/¥28.8砂锅/¥2.01抽纸/¥2.01刮水器；第2行=¥3.21茶卡盐/¥1.31发圈/¥24护手霜/¥0.88WPS/¥52.9月饼/¥11.2月饼；第3行部分可见（清风抽纸等）。需继续滚动确认第3行完整数据。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3行完整商品数据\"}}",
+    "valid": true
+  }
+]

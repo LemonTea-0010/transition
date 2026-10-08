@@ -1,0 +1,90 @@
+{
+  "started_at": "2026-10-08T19:17:07+08:00",
+  "timezone": "Asia/Shanghai",
+  "clean_source": "transition_experiment\\runs\\run_20261008_151302",
+  "ports": {
+    "taobao_compare_001": 18901,
+    "ctrip_hotel_compare_001": 18902,
+    "bilibili_video_compare_001": 18903,
+    "amazon_product_compare_001": 18904
+  },
+  "conditions": [
+    "within_low",
+    "within_high",
+    "transition_low",
+    "transition_high"
+  ],
+  "mode": "rerun_four",
+  "model": "mimo-v2.5",
+  "max_steps": 45,
+  "status": "completed",
+  "max_parallel": 2,
+  "condition_ports": {
+    "taobao_compare_001/within_low": 18901,
+    "taobao_compare_001/within_high": 18902,
+    "taobao_compare_001/transition_low": 18903,
+    "taobao_compare_001/transition_high": 18904,
+    "ctrip_hotel_compare_001/within_low": 18905,
+    "ctrip_hotel_compare_001/within_high": 18906,
+    "ctrip_hotel_compare_001/transition_low": 18907,
+    "ctrip_hotel_compare_001/transition_high": 18908,
+    "bilibili_video_compare_001/within_low": 18909,
+    "bilibili_video_compare_001/within_high": 18910,
+    "bilibili_video_compare_001/transition_low": 18911,
+    "bilibili_video_compare_001/transition_high": 18912,
+    "amazon_product_compare_001/within_low": 18913,
+    "amazon_product_compare_001/within_high": 18914,
+    "amazon_product_compare_001/transition_low": 18915,
+    "amazon_product_compare_001/transition_high": 18916
+  },
+  "finished_at": "2026-10-08T20:45:17+08:00",
+  "failures": {},
+  "incomplete_conditions": [],
+  "resumed_at": "2026-10-08T20:31:35+08:00",
+  "resume_events": [
+    {
+      "at": "2026-10-08T19:17:27+08:00",
+      "tasks": [
+        "taobao_compare_001",
+        "ctrip_hotel_compare_001",
+        "bilibili_video_compare_001",
+        "amazon_product_compare_001"
+      ],
+      "max_steps": 45
+    },
+    {
+      "at": "2026-10-08T19:50:26+08:00",
+      "tasks": [
+        "taobao_compare_001",
+        "ctrip_hotel_compare_001",
+        "bilibili_video_compare_001",
+        "amazon_product_compare_001"
+      ],
+      "max_steps": 45,
+      "max_parallel": 3
+    },
+    {
+      "at": "2026-10-08T20:13:48+08:00",
+      "tasks": [
+        "taobao_compare_001",
+        "ctrip_hotel_compare_001",
+        "bilibili_video_compare_001",
+        "amazon_product_compare_001"
+      ],
+      "max_steps": 45,
+      "max_parallel": 3
+    },
+    {
+      "at": "2026-10-08T20:31:35+08:00",
+      "tasks": [
+        "taobao_compare_001",
+        "ctrip_hotel_compare_001",
+        "bilibili_video_compare_001",
+        "amazon_product_compare_001"
+      ],
+      "max_steps": 45,
+      "max_parallel": 2
+    }
+  ],
+  "initial_max_parallel": 10
+}

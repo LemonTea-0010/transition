@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"按页面从上到下顺序确定三个候选：候选1【万字合集】生化危机系列（迷影区间，197.9万，03:38:51）；候选2 去了一趟山西（影视飓风，563.5万，22:13）；候选3 梗百科：娘化马尔福是咋回事（梗百科，145.2万，02:02）。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance to S3 candidate recording\"}}",
+    "valid": true
+  }
+]

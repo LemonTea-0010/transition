@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New deals visible: INSIGNIA 65\\\" QF Series TV 14%, Amazon Smart Thermostat 29%, Fire TV Stick 4K 50%, Amazon Adjustable Stand 25%, Echo Studio 18%. Need to continue scrolling to bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to continue viewing more device deals\"}, \"observations\": [{\"name\": \"INSIGNIA 65-inch Class QF Series LED 4K UHD QLED\", \"discount_percent\": 14}, {\"name\": \"Amazon Smart Thermostat, Save money, and energy.\", \"discount_percent\": 29}, {\"name\": \"Amazon Fire TV Stick 4K (newest model), simple 4K\", \"discount_percent\": 50}, {\"name\": \"Amazon Adjustable Stand | Designed for Amazon Echo\", \"discount_percent\": 25}, {\"name\": \"Amazon Echo Studio (newest model), Immersive spatial\", \"discount_percent\": 18}], \"ranking\": []}",
+    "valid": true
+  }
+]

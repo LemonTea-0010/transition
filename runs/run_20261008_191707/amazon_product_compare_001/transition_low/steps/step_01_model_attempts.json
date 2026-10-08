@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Page shows Amazon device deals. Visible so far: Ring Video Doorbell 60% off, Kindle Paperwhite 32% off, Echo Pop 40% off, Echo Dot 50% off. Need to scroll to see more.\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to reveal more device deals\"}, \"observations\": [{\"name\": \"Ring Video Doorbell\", \"discount_percent\": 60}, {\"name\": \"Kindle Paperwhite\", \"discount_percent\": 32}, {\"name\": \"Echo Pop\", \"discount_percent\": 40}, {\"name\": \"Echo Dot\", \"discount_percent\": 50}], \"ranking\": []}",
+    "valid": true
+  }
+]

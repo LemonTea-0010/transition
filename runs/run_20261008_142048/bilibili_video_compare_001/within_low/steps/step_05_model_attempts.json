@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3 candidate 1 recorded: 【万字合集】午夜梦回，恶灵古堡！爆发夜之前重温《生化危机》系列... by 迷影区间, 播放量197.9万, 时长03:38:51. Candidate 2 visible: 去了一趟山西。by 影视飓风, 播放量563.5万, 时长22:13. Candidate 3 still unrecorded.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance to record candidate 3\"}}",
+    "valid": true
+  }
+]

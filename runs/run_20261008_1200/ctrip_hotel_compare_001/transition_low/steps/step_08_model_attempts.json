@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"回到页面顶部确认：1) 维也纳国际酒店(上海浦东机场店) 4.7分/18,517条/¥293起，信息完整；2) 全季酒店(上海顾村公园菊联路店) 4.5分/680条，价格¥35x仍被悬浮按钮遮挡，信息不完整；3) 如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条，价格在下方。全季价格不完整，需滚动确认其价格或确定第三候选。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看全季酒店完整价格信息\"}}",
+    "valid": true
+  }
+]

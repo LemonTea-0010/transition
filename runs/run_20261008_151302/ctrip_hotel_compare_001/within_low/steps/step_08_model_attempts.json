@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认第15个汉庭酒店(上海西康路店)当前显示价格¥286起，1,727条点评。至此第1—15个酒店卡片的名称、价格、点评数均已观察到，列表序号定义完成。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S1完成，进入S2确认分组并开始S3记录组候选\"}}",
+    "valid": true
+  }
+]

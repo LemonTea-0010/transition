@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认第15个为上海浦东机场亚朵酒店¥482/6,716条，第16个为上海虹桥温德姆酒店¥458/5,964条，第17个为全季酒店(上海浦东机场东站店)¥450/5,177条，第18个为维也纳国际酒店(上海外高桥自贸区杨高北路店)¥244/2,532条（广告），第19个为汉庭酒店(上海西康路店)。列表序号已连续确认到第19个，第1—15个卡片信息已全部观察到。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S1完成，进入S3逐组记录候选：第1—5组候选需回看前几屏确认价格最低者\"}}",
+    "valid": false,
+    "error": "next_subtask must be S2 on completion; in_progress may also name S1"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第12个为上海新国际博览中心龙阳路亚朵酒店¥918/2,485条，第13个为全季酒店(上海松江体育中心地铁站店)¥396/869条（广告），第14个为上海浦东温德姆酒店¥395/6,578条，第15个为上海浦东机场亚朵酒店¥482/6,716条。当前屏幕显示第16个为全季酒店(上海浦东机场东站店)¥450/5,177条，第17个为维也纳国际酒店(上海外高桥自贸区杨高北路店)¥244/2,532条（广告），第18个为汉庭酒店(上海西康路店)¥1,727条。第1—15个卡片信息已全部确认。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S1完成，进入S2定义分组并开始S3记录组候选\"}}",
+    "valid": true
+  }
+]

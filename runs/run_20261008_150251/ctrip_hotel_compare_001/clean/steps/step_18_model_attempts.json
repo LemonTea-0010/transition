@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第3个为如家精选(嘉怡路地铁站店)¥241/1,619条；第4个为汉庭酒店(上海江宁路店)¥258/287条；第5个为如家酒店·neo(川黄路川沙地铁站店)¥167/4,056条。第1—5个已全部确认，需继续向下滚动确认第6—12个卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第6—12个酒店卡片\"}}",
+    "valid": true
+  }
+]

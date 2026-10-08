@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"S5 final recommendation: Candidate 2 「去了一趟山西。」 by 影视飓风, 播放量563.5万, 时长22:13. All three candidates showed play counts (197.9万, 563.5万, 145.2万), and Candidate 2 has the highest play count, so it is recommended. Task complete.\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"Task completed with final recommendation\"}}",
+    "valid": true
+  }
+]

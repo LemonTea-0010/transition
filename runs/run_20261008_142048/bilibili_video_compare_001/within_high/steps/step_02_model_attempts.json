@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已浏览推荐区域，识别出完整显示标题和UP主信息的视频卡片，包括【梗百科】娘化马尔福、躲在垃圾岛上的叛军、第一次去美国、探秘日本关东煮等。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进到S2选择候选视频\"}}",
+    "valid": true
+  }
+]

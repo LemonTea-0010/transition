@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：已记录组1(1-5)候选为第5个如家neo川沙¥167/4,056条，组2(6-10)候选为第9个非繁云居¥166/13条。当前屏幕显示第13个全季浦东机场¥402/3,174条、第14个非繁云居虹桥¥166/13条、第15个亚朵龙阳路¥2,485条，但第11-12个卡片仍未在当前视图中确认，需继续滚动查看。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第11-12个酒店卡片以确认组3候选\"}}",
+    "valid": true
+  }
+]

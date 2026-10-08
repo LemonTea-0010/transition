@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已滚动到列表顶部，当前屏幕显示第1个卡片上海静安寺南京西路CitiGO欢阁酒店（¥927起，6,229条点评）和第2个卡片上海人民广场大世界地铁站亚朵酒店（¥1,121起，1,996条点评）。需继续向下滚动逐屏浏览第3—15个卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3个及后续酒店卡片\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确定最先出现的三家候选酒店：①如家精选酒店(上海国家会展中心嘉怡路地铁站店)；②汉庭酒店(上海江宁路店)；③如家酒店·neo(上海川黄路川沙地铁站店)。三家均完整显示名称、评分、点评数和价格。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，推进决策循环\"}}",
+    "valid": true
+  }
+]

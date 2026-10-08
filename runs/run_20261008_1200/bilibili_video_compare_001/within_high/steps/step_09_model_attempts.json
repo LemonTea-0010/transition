@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"S5最终推荐：候选2《去了一趟山西》（影视飓风，563.5万播放，22:13）。理由：三个候选均显示播放量，563.5万 > 197.9万 > 145.2万，候选2播放量最高，故推荐之。任务完成。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"Task complete: final recommendation delivered for candidate 2 (去了一趟山西, 563.5万 plays)\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New deals visible: Ring Pan-Tilt Indoor Cam 50%, Blink Outdoor XR+ 65%, Ring Chime 20%, Fire HD 8 tablet 38%, Echo Dot Kids 33%, Fire HD 8 Kids 44%, Fire HD 10 Kids 43%, Ring Wired Doorbell 2K Plus 50%. Ring Chime at 20% is now lowest. A popup appeared but I'll continue scrolling past it.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to view more device deal cards and reach page bottom\"}, \"observations\": [{\"name\": \"Ring Pan-Tilt Indoor Cam\", \"discount_percent\": 50}, {\"name\": \"Blink Outdoor XR+\", \"discount_percent\": 65}, {\"name\": \"Ring Chime\", \"discount_percent\": 20}, {\"name\": \"Amazon Fire HD 8 tablet\", \"discount_percent\": 38}, {\"name\": \"Amazon Echo Dot Kids\", \"discount_percent\": 33}, {\"name\": \"Amazon Fire HD 8 Kids tablet\", \"discount_percent\": 44}, {\"name\": \"Amazon Fire HD 10 Kids tablet\", \"discount_percent\": 43}, {\"name\": \"Ring Wired Doorbell 2K Plus\", \"discount_percent\": 50}], \"ranking\": []}",
+    "valid": true
+  }
+]

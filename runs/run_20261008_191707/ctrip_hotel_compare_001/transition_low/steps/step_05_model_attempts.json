@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别第10个卡片：上海新国际博览中心龙阳路亚朵酒店，¥980起，2,485条点评；第11个卡片：全季酒店(上海松江体育中心地铁站店)广告，¥396起，869条点评；第12个卡片：上海浦东温德姆酒店，¥395起，6,578条点评。还需继续浏览确认第13个及以后的卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片\"}}",
+    "valid": true
+  }
+]

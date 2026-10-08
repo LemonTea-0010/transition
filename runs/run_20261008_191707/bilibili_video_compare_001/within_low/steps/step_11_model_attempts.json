@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"S5完成：三个屏次候选——第一屏：去了一趟山西（影视飓风，563.5万，22:13）；第二屏：幸亏我暂停的够快（小猪佩奇，2110.9万）；第三屏：哪吒之魔童闹海（哔哩哔哩电影，5793.5万，11:02）。最终推荐哪吒之魔童闹海，因5793.5万为三屏候选中播放量最高，无需平局处理。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终推荐报告\"}}",
+    "valid": true
+  }
+]

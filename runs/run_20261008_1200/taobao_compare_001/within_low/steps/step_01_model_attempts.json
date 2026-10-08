@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"当前为淘宝首页，顶部为频道入口和活动卡片，下方推荐商品区可见商品卡片（抽绳垃圾袋、抖币充值、卷纸、柔纸巾、走珠笔、陶瓷碗），但价格和购买人数信息尚未显示。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看推荐商品的价格和购买人数信息\"}}",
+    "valid": true
+  }
+]

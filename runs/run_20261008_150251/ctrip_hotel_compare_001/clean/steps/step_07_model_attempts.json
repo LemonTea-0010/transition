@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别：第11个全季酒店(上海浦东机场东站店)4.7分5,177条点评¥450起；第12个维也纳国际酒店(上海外高桥自贸区杨高北路店)广告4.6分2,532条点评¥248起(原价¥288)；第13个汉庭酒店(上海西康路店)4.6分1,727条点评，价格待确认。仍需继续识别第13个价格及第14、15个卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动以查看第13个价格及第14、15个酒店卡片\"}}",
+    "valid": true
+  }
+]

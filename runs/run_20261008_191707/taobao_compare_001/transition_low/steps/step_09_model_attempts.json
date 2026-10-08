@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—3行区间最低价候选已记录为第2行WPS会员¥0.88（购买人数未见）。当前屏幕显示新的一组商品行（垃圾袋/抖币/洁柔卷纸/柔纸巾/中性笔/陶瓷碗），需确认此行行号并继续浏览至第9行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多商品行，确认行号并收集第3—6行、第6—9行候选\"}}",
+    "valid": true
+  }
+]

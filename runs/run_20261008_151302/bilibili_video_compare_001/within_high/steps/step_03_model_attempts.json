@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已回到第一屏（y=0）确认初始视口：可见推荐卡片包括【万字合集】生化危机系列（197.9万，03:38:51）、去了一趟山西（563.5万，22:13）、【梗百科】娘化马尔福（145.2万，02:02）；右下角OiiOii卡片标注广告，排除。第一屏边界确认完毕，准备逐屏记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度到第二屏\"}}",
+    "valid": true
+  }
+]

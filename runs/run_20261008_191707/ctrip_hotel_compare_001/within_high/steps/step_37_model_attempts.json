@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"S2完成：已确认列表起点（第1个如家精选¥241/1,619条）并浏览至第15个汉庭酒店(上海西康路店)¥396/1,727条。第1—5组候选：第3个如家酒店neo(川沙地铁站店)¥167/4,056条。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第6—10个酒店卡片\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已回到列表顶部，第1个卡片CitiGO欢阁（¥927起，6,229条点评）和第2个卡片亚朵（¥1,121起，1,996条点评）已确认。需向下滚动查看第3—12个卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3个及之后的酒店卡片\"}}",
+    "valid": true
+  }
+]

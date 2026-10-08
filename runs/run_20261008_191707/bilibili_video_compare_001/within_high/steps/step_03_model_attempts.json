@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S2进行中：第一屏推荐区已确认，有效候选为生化危机系列197.9万/迷影区间/03:38:51、去了一趟山西563.6万/影视飓风/22:13、娘化马尔福145.2万/梗百科/02:02；广告卡和轮播卡已排除。屏次划分：初始视口为第一屏，滚动一次为第二屏，再滚动一次为第三屏。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S2 setup complete, advance to S3 to collect screen candidates\"}}",
+    "valid": true
+  }
+]

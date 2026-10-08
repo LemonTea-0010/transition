@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个候选均已记录：1) 手提式抽绳垃圾袋家用厨房紫色塑料袋背心收纳平口大 ¥1.51 1000+人购买；2) 天猫60抖币充值秒到300钻石douyin抖币充值ios抖 包邮 ¥4.55 5万+人购买；3) 一分购卷纸6卷便携家用亲肤无芯卫生餐巾纸手撕卷 包邮 ¥2.01 1000+人购买。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进S4比较三个候选\"}}",
+    "valid": true
+  }
+]

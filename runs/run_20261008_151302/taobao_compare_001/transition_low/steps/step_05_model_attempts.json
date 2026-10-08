@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—3行最低价候选已记录为第3行办公用抽纸¥1.41/1000+人购买。当前屏幕显示第3行（¥1.41/¥19/¥1.81/¥79.9/¥25/¥1.8）、第4行（¥3.8/¥60/¥4.81/¥22/¥50/¥30）、第5行（¥9.9/¥38/¥1.81/¥32.9/¥2.01/¥50）。第3—6行区间最低价候选为第5行清风抽纸¥2.01/1万+人购买。还需继续下滚确认第6—9行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第6行及之后的商品\"}}",
+    "valid": true
+  }
+]

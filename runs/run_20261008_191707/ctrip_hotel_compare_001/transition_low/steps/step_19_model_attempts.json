@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认第15个全季酒店(上海浦东机场东站店)¥450起5,177条点评；第16个维也纳国际酒店(上海外高桥自贸区杨高北路店)广告¥244起2,532条点评；第17个汉庭酒店(上海西康路店)1,727条点评。列表卡片顺序和字段已明确。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到列表顶部，从第1个酒店开始逐屏浏览\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第一屏候选已记录（生化危机合集197.9万、去了一趟山西563.5万、娘化马尔福145.2万），第一屏最高为影视飓风563.5万。第二屏已观察到卡片，最高为小猪佩奇2110.9万（幸亏我暂停的够快）。刚执行滚动但截图显示空白区域，需确认第三屏内容。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"再次向下滚动以加载并观察第三屏内容\"}}",
+    "valid": true
+  }
+]

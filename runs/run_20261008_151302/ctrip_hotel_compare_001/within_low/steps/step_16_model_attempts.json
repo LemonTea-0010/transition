@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—5组候选已记录为第5个维也纳国际酒店(上海外高桥自贸区杨高北路店)广告，¥244起，2,532条点评。当前屏幕显示的维也纳国际酒店(上海浦东机场店)¥293起、全季酒店(上海顾村公园菊联路店)广告¥358起、如家精选酒店(上海国家会展中心嘉怡路地铁站店)等为列表更下方的卡片，需继续向下滚动确认第6—10个卡片信息。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第6—10个酒店卡片\"}}",
+    "valid": true
+  }
+]

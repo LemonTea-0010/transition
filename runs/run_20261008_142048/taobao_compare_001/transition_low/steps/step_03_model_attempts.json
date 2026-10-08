@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"推荐区域可见，第一行商品均显示标题、价格和购买人数。自上而下最先满足条件的三个候选为：1) 手提式抽绳垃圾袋家用厨房紫色塑料袋背心收纳平口大 ¥1.51 1000+人购买；2) 天猫 60抖币充值秒到300钻石douyin抖币充值ios抖 包邮 ¥4.55 5万+人购买；3) 一分购卷纸6卷便携家用亲肤无芯卫生餐巾纸手撕卷 包邮 ¥2.01 1000+人购买。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"确认候选选择，推进到S3记录第一个候选\"}}",
+    "valid": true
+  }
+]

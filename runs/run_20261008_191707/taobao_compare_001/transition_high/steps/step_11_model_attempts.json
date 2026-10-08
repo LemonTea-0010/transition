@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终报告：区间1-3最低价候选为第3行牙签，¥1.21，1000+人购买；区间3-6最低价候选同为第3行牙签，¥1.21，1000+人购买；区间6-9最低价候选为第9行牙签竹签，¥1.21，1000+人购买。三者价格均为¥1.21、购买人数均为1000+人，按页面位置更靠前原则，推荐第3行牙签（¥1.21，1000+人购买）。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S5报告完成，任务结束\"}}",
+    "valid": true
+  }
+]

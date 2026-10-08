@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已记录候选①：如家精选酒店(上海国家会展中心嘉怡路地铁站店)，4.8分，1,619条点评，¥241起。候选②③尚未记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"无导航操作，继续记录候选②\"}}",
+    "valid": true
+  }
+]

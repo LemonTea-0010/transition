@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"All device deals collected through page bottom. Final ranking: INSIGNIA 32\\\" F20 13%, INSIGNIA 65\\\" QF 14%, Amazon eero 7 15%.\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"Task complete: three smallest discounts identified and ranked\"}, \"observations\": [], \"ranking\": [{\"name\": \"INSIGNIA 32\\\" Class F20 Series LED HD Smart Fire TV, Voice\", \"discount_percent\": 13}, {\"name\": \"INSIGNIA 65-inch Class QF Series LED 4K UHD QLED\", \"discount_percent\": 14}, {\"name\": \"Amazon eero 7 dual-band mesh Wi-Fi 7 router\", \"discount_percent\": 15}]}",
+    "valid": true
+  }
+]

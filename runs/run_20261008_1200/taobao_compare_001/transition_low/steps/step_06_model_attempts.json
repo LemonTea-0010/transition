@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已记录候选①：手提式抽绳垃圾袋，¥1.51，1000+人购买。候选②：60抖币充值，¥4.55，5万+人购买。候选③尚未记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进决策循环以记录第三个候选商品信息\"}}",
+    "valid": true
+  }
+]

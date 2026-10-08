@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个区间候选：第1—3行牙签¥1.21/1000+（第3行）；第3—6行加碘盐¥1.51/1000+（第4行）；第6—9行WPS会员¥0.88/5万+（第8行）。按购买人数降序，WPS会员5万+最高，推荐WPS会员。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S5报告完成，停止\"}}",
+    "valid": true
+  }
+]

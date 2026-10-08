@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别：第5个如家酒店·neo(川黄路川沙地铁站店)¥167起、4,056条点评；第6个维也纳国际酒店(上海南翔地铁站店)广告位，4.4分，2,158条点评，¥258起；第7个上海世博中心耀华路亚朵酒店，4.8分，4,342条点评，¥98起（部分可见）。仍需确认第7个完整价格并继续识别后续卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片以确认第7个价格并识别后续卡片\"}}",
+    "valid": true
+  }
+]

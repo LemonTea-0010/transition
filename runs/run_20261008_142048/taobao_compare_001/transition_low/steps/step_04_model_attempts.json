@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S2已确定三个候选：1) 手提式抽绳垃圾袋 ¥1.51 1000+人购买；2) 天猫60抖币充值 ¥4.55 5万+人购买；3) 一分购卷纸6卷 ¥2.01 1000+人购买。现在开始记录第一个候选的完整信息。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"记录候选1信息，推进S3决策循环\"}}",
+    "valid": false,
+    "error": "Previous S2 was in_progress. This decision must still report current_subtask=S2; if its work is done, report subtask_status=completed and next_subtask=S3. Use press Escape if no navigation is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认自上而下最先满足条件的三个候选：1) 手提式抽绳垃圾袋 ¥1.51 1000+人购买；2) 天猫60抖币充值 ¥4.55 5万+人购买；3) 一分购卷纸6卷 ¥2.01 1000+人购买。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进到S3记录第一个候选\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"候选1已记录：手提式抽绳垃圾袋，¥1.51，1000+人购买。候选2和候选3尚未逐一记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作推进决策循环，记录候选2\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第7个如家neo¥167/4,056条，第8个为广告维也纳国际酒店(上海南翔地铁站店)¥258/2,158条，第9个为上海世博中心耀华路亚朵酒店¥980/4,342条。还需继续向下浏览确认第10-15个卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第10个及之后的酒店卡片\"}}",
+    "valid": true
+  }
+]

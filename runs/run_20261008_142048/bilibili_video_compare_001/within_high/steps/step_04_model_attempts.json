@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"候选1已记录：躲在垃圾岛上的叛军竟能翻盘？合金弹头7隐藏的秘密！/老孙聊游戏/79.5万/15:57。候选2已记录：第一次去美国，被吓到了……/老番茄/75.8万/11:29。候选3待记录：探秘日本最贵关东煮，价格差50倍！到底有多好吃？/Meetfood觅食/728万/09:44。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"记录候选3信息\"}}",
+    "valid": false,
+    "error": "Previous S2 was in_progress. This decision must still report current_subtask=S2; if its work is done, report subtask_status=completed and next_subtask=S3. Use press Escape if no navigation is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确定页面从上到下最先出现的三个完整显示标题和UP主的视频卡片：1)躲在垃圾岛上的叛军竟能翻盘？合金弹头7隐藏的秘密！/老孙聊游戏/79.5万/15:57；2)第一次去美国，被吓到了……/老番茄/75.8万/11:29；3)探秘日本最贵关东煮，价格差50倍！到底有多好吃？/Meetfood觅食/728万/09:44。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进到S3逐个记录候选信息\"}}",
+    "valid": true
+  }
+]

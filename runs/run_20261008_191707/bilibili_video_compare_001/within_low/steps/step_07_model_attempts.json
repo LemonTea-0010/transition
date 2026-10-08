@@ -1,0 +1,19 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第一屏最高为影视飓风563.5万（去了一趟山西），第二屏最高为小猪佩奇2110.9万（幸亏我暂停的够快）。当前已滚动到第三屏（y=2400），可见卡片包括：真的肥嘟嘟的（多影织，456.9万，01:59）、学了两年代码写的植物大战僵尸（打糖喵，128.8万，12:29）、盘点那些挑错受害者的连环杀手（52.3万，12:12）、我做了世界上最难绷的音频（休念我姓名，194.4万，01:03）、哪吒之魔童闹海（哔哩哔哩电影，5793.5万，11:02）、花1150元网购80斤无人认领盲盒（馋大鑫，26.6万，12:12）等。第三屏最高为哪吒之魔童闹海5793.5万。三个屏次候选已全部记录，S3即将完成。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"三个屏次候选已全部记录，进入S4比较\"}}",
+    "valid": false,
+    "error": "S3 in_progress must name a group or screen that still needs observation; do not say all three are complete"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第一屏最高为影视飓风《去了一趟山西》563.5万；第二屏最高为小猪佩奇《幸亏我暂停的够快》2110.9万。当前已滚动到第三屏（y=2400），可见卡片包括：真的肥嘟嘟的（多影织，456.9万，01:59）、学了两年代码写的植物大战僵尸（打糖噜，128.8万，12:29）、盘点那些挑错受害者的连环杀手（52.3万，12:12）、我做了世界上最难绷的音频（休念我姓名，194.4万，01:03）、哪吒之魔童闹海（哔哩哔哩电影，5793.5万，电影标签）、花1150元网购80斤无人认领盲盒（馋大鑫，26.6万，12:12）等。第三屏最高为哪吒之魔童闹海5793.5万。三个屏次候选均已观察记录完毕。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"比较三屏候选播放量，进入S4\"}}",
+    "valid": false,
+    "error": "S3 in_progress must name a group or screen that still needs observation; do not say all three are complete"
+  },
+  {
+    "attempt": 3,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第一屏最高为影视飓风563.5万（去了一趟山西），第二屏最高为小猪佩奇2110.9万（幸亏我暂停的够快）。当前已滚动到第三屏，可见卡片包括：真的肥嘟嘟的（多影织，456.9万，01:59）、学了两年代码写的植物大战僵尸（打糖喵，128.8万，12:29）、盘点那些挑错受害者的连环杀手（52.3万，12:12）、我做了世界上最难绷的音频（休念我姓名，194.4万，01:03）、哪吒之魔童闹海（哔哩哔哩电影，5793.5万，11:02）、花1150元网购80斤无人认领盲盒（馋大鑫，26.6万，12:12）等。第三屏最高为哪吒之魔童闹海5793.5万。三个屏次候选均已观察到，需完成记录并进入S4。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"三个屏次候选已全部记录，进入S4比较\"}}",
+    "valid": true
+  }
+]

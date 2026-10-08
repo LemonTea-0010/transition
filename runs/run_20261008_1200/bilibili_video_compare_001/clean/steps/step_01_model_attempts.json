@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili 首页推荐区域已加载，可见多个视频卡片。左侧大卡片为轮播推荐（无 UP 主信息），右侧有三个完整显示标题和 UP 主的卡片：万字合集生化危机系列（迷影区间）、去了一趟山西（影视飓风）、娘化马尔福是咋回事（梗百科），另有一个广告卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": null}}",
+    "valid": false,
+    "error": "target_description is required"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili homepage loaded; recommendation area visible with multiple video cards showing titles, UP主, play counts, and durations. Still need to identify the first three qualifying cards.\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Non-navigating action to advance decision loop\"}}",
+    "valid": true
+  }
+]

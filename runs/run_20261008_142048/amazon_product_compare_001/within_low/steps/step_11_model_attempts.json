@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New deals visible: INSIGNIA 65\\\" QF Series OLED 14% off, Amazon Adjustable Stand 25% off, Amazon Echo Studio 18% off. Modal popup still blocking; need to scroll to page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to see more product deals and reach page bottom\"}, \"observations\": [{\"name\": \"INSIGNIA 65-inch Class QF Series LED 4K UHD OLED\", \"discount_percent\": 14}, {\"name\": \"Amazon Adjustable Stand Designed for Amazon Echo\", \"discount_percent\": 25}, {\"name\": \"Amazon Echo Studio (newest model)\", \"discount_percent\": 18}], \"ranking\": []}",
+    "valid": true
+  }
+]

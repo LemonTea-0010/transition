@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S2进行中：已确认第一屏推荐区域，屏次以初始视口为第一屏，向下滚动一个视口为第二屏，再滚动一个视口为第三屏。第一屏有效候选：生化危机合集（迷影区间，197.9万，03:38:51）、去了一趟山西（影视飓风，563.5万，22:13）、娘化马尔福（梗百科，145.2万，02:02）；广告OiiOii已排除。尚未开始S3逐屏记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口进入第二屏，准备S3逐屏记录\"}}",
+    "valid": true
+  }
+]

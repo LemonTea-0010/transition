@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1已完成：第13个汉庭酒店(上海西康路店)¥286/1,727条点评；第14个上海徐家汇CitiGO欢阁酒店¥816/12,746条点评；第15个维也纳国际酒店(上海国展中心曹安公路店)¥279/2,451条点评。当前屏幕显示第13—15个卡片，需向上滚动确认第1—12个卡片的序号与数据。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看第1—12个酒店卡片\"}}",
+    "valid": false,
+    "error": "Previous S1 was in_progress. This decision must still report current_subtask=S1; if its work is done, report subtask_status=completed and next_subtask=S2. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"S1完成：第13个汉庭酒店(上海西康路店)¥286/1,727条点评；第14个上海徐家汇CitiGO欢阁酒店¥816/12,746条点评；第15个维也纳国际酒店(上海国展中心曹安公路店)¥279/2,451条点评。第1—15个卡片已全部识别。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S1完成，进入S2确认序号并准备分组比较\"}}",
+    "valid": true
+  }
+]

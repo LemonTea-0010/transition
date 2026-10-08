@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第1-10个卡片。本屏新增：第11个上海新国际博览中心龙阳路亚朵酒店¥918/2,485条；第12个全季酒店(上海松江体育中心地铁站店)广告¥396/869条；第13个上海浦东温德姆酒店¥395/6,578条（价格部分可见需确认）。还需继续确认第14、15个卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第14、15个酒店卡片\"}}",
+    "valid": true
+  }
+]

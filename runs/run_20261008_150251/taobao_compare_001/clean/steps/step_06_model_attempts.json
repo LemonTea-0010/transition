@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已记录第1行最低1.41元、第2行最低1.31元、第3行最低1.51元、第4行最低1.51元（购买1000+）、第5行最低1.41元（购买1000+）、第6行最低1.81元（购买1000+，天然竹制一次性筷子）。第7行仅露出图片顶部，价格与购买人数未显示。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第7行商品的价格与购买人数\"}}",
+    "valid": true
+  }
+]

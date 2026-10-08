@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—5组候选已记录，最低价为第5个维也纳国际酒店(上海外高桥自贸区杨高北路店)广告，¥244起，2,532条点评。当前屏幕可见第4个全季酒店(上海浦东机场东站店)¥450起、第5个维也纳¥244起、第6个汉庭酒店(上海西康路店)¥286起，1,727条点评。需继续向下滚动观察第7—10个卡片以完成第6—10组候选。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第7—10个酒店卡片\"}}",
+    "valid": false,
+    "error": "Previous S2 was in_progress. This decision must still report current_subtask=S2; if its work is done, report subtask_status=completed and next_subtask=S3. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"S2设置完成：第1个上海新国际博览中心龙阳路亚朵酒店（¥918起，2,485条点评），第2个全季酒店(上海松江体育中心地铁站店)广告（¥396起，869条点评），第3个上海浦东温德姆酒店（¥395起，6,578条点评），第4个全季酒店(上海浦东机场东站店)（¥450起，5,177条点评），第5个维也纳国际酒店(上海外高桥自贸区杨高北路店)广告（¥244起，2,532条点评）。第1—5个卡片信息已齐，转入S3记录第1—5组候选。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S2完成，进入S3记录第1—5组候选：最低价为第5个维也纳国际酒店¥244起，2,532条点评\"}}",
+    "valid": true
+  }
+]

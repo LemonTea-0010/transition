@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"候选1已记录：维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起。候选2已记录：如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条点评/¥241起。候选3汉庭酒店(上海江宁路店) 4.5分/287条点评/¥258起尚未正式记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，记录第三个候选信息\"}}",
+    "valid": true
+  }
+]

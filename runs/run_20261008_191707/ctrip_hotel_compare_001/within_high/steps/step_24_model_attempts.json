@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第12个为上海新国际博览中心龙阳路亚朵酒店¥918/2,485条，第13个为全季酒店(上海松江体育中心地铁站店)¥396/869条（广告），第14个为上海浦东温德姆酒店¥395/6,578条。当前屏幕显示第15个为上海浦东机场亚朵酒店¥482/6,716条，第16个为上海虹桥温德姆酒店¥458/5,964条。还需确认第15个卡片信息完整。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动确认第15个酒店卡片完整信息\"}}",
+    "valid": true
+  }
+]

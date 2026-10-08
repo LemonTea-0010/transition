@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选已记录：影视飓风「去了一趟山西」563.5万(22:13)为第一屏最高。当前已滚动至第二屏，可见卡片包括：老孙聊游戏「合金弹头7」79.5万(15:57)、老番茄「第一次去美国」75.8万(11:29)、Meetfood觅食「探秘日本关东煮」728万(09:44)、人类早期纪录片「站起来就是活」143.2万(03:38)、影视飓风「选哪个？iPhone 18 Pro&Duo」1572万(27:12)、狗哥笔记「skill美剧」20.5万、咪克菌「你管这叫留守老人？」258.7万(01:35)、罗兰档案处「马尔福大小姐」34.4万(01:30)、龙三条「人民的恶魔」26.7万(20:26)；直播卡已排除。第二屏最高为影视飓风iPhone视频1572万。第三屏尚未观察。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度，进入第三屏观察可见卡片，之后不再滚动\"}}",
+    "valid": false,
+    "error": "Previous S2 was in_progress. This decision must still report current_subtask=S2; if its work is done, report subtask_status=completed and next_subtask=S3. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认第一屏(初始视口)候选：最高为「去了一趟山西」(563.5万,22:13,影视飓风)。当前截图显示已滚动到第二屏(y=800)，可见卡片包括「站起来就是活」(143.2万,03:38,人类早期纪录片片)、「选哪个?iPhone 18 Pro&Duo深度上手」(1572万,27:12,影视飓风)、「skill美剧」(20.5万,狗哥笔记)、「幸亏我暂停的够快」(2110.9万,小猪佩奇 第十一季)、「哈利波特/马尔福是女生」(34.4万,罗罗档案处的摸鱼王)、「人民的恶魔」(26.7万,龙三条)、「你管这叫留守老人?」(258.7万,咪克菌)，直播卡已排除。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S2完成，进入S3：第二屏最高为「幸亏我暂停的够快」(2110.9万)，需继续滚动到第三屏\"}}",
+    "valid": true
+  }
+]

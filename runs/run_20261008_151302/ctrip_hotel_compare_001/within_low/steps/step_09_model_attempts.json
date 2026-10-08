@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1已完成：第15个汉庭酒店(上海西康路店)¥286起，1,727条点评。当前屏幕可见第14个汉庭(长寿路商业区,¥286,1,727条)、第15个CitiGO徐家汇(¥816,12,746条)、第16个维也纳国展中心(¥279,2,451条)。需向上滚动回到列表顶部确认第1个卡片并定义连续序号。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到酒店列表顶部，确认第1个卡片及连续序号\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"候选1已记录：维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起。候选2已记录：全季酒店(上海顾村公园菊联路店) 4.5分/680条点评/¥35开头(被遮挡)。候选3(如家精选酒店)信息已在S2确认但尚未正式记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，推进S3记录候选3信息\"}}",
+    "valid": true
+  }
+]

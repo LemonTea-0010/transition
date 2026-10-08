@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第13个：上海浦东机场亚朵酒店，¥482起，6,716条点评。第14个：上海虹桥温德姆酒店，¥458起，5,964条点评。还需继续浏览确认第15个卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片\"}}",
+    "valid": true
+  }
+]

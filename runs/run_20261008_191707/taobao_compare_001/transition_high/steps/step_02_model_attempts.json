@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认商品网格：第1行6张卡片（¥1.51垃圾袋、¥4.55抖币、¥2.01卷纸、¥2.01柔纸巾、¥1.41走珠笔、¥12陶瓷碗，均1000+人购买）；第2行6张（¥1.51抽纸、¥9.9纸巾、¥1.61生字本、¥14.85大米、¥1.31洁厕宝、¥8礼包，均1000+或1万+人购买）；第3行部分可见但价格未显示完整。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3行完整价格和购买人数，确认行次计数方式\"}}",
+    "valid": true
+  }
+]

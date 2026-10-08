@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已看到商品网格三行：第1行（抽绳垃圾袋¥1.51/1000+、60抖币充值¥4.55/5万+、卷纸¥2.01/1000+、柔纸巾¥2.01/1000+、走珠笔¥1.41/1000+、陶瓷碗¥12/1000+）；第2行（抽纸¥1.51/1000+、Tempo抽纸¥9.9/1万+、生字本¥1.61/1000+、大米¥14.85/5万+、洁厕剂¥1.31/1000+、礼包¥8/1000+）；第3行部分可见（芭芭农场酒、POLO衫、橡皮、QQ音乐月卡、超市卡、抽绳垃圾袋），价格未完整显示。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3行完整价格\"}}",
+    "valid": true
+  }
+]

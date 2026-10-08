@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—5组候选为第5个维也纳国际酒店(上海外高桥自贸区杨高北路店)广告，¥244起，2,532条点评。当前屏幕显示船长五号青年酒店(上海中山公园江苏路地铁站店)¥148起(2,348条点评)、上海嘉豪淮海国际豪生酒店¥800起(3,999条点评)，页面已到底部。需确认第6—10个卡片序号。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动确认是否还有更多酒店卡片\"}}",
+    "valid": true
+  }
+]

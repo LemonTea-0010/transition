@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个屏次候选：第一屏「去了一趟山西」(563.5万,22:13,影视飓风)；第二屏「幸亏我暂停的够快」(2110.9万,小猪佩奇 第十一季)；第三屏「伍六七」(1.0亿,哔哩哔哩国创)。最终推荐第三屏「伍六七」，播放量1.0亿为三者最高，无平局，理由是其播放量远超其余两屏候选。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S5报告完成，任务结束\"}}",
+    "valid": false,
+    "error": "Previous S4 was in_progress. This decision must still report current_subtask=S4; if its work is done, report subtask_status=completed and next_subtask=S5. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"S4比较完成：第一屏「去了一趟山西」563.5万、第二屏「幸亏我暂停的够快」2110.9万、第三屏「伍六七」1.0亿，1.0亿最高且无平局，推荐第三屏「伍六七」。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S4已完成，进入S5输出最终报告\"}}",
+    "valid": true
+  }
+]

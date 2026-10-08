@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1已完成，确认完整信息卡片：①维也纳国际酒店(浦东机场店)4.7/18,517/¥293；②如家精选(国家会展中心店)4.8/1,619/¥241；③维也纳国际(南翔地铁站店)4.4/2,158/¥258。S2需确认这三家即为页面自上而下最先满足条件的前三候选。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进S2决策循环，确认前三候选\"}}",
+    "valid": true
+  }
+]

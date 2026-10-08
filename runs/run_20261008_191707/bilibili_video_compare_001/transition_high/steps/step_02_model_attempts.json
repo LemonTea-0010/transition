@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选已记录：'去了一趟山西'（影视飓风，563.6万，22:13）为第一屏最高。当前为第二屏，可见卡片包括：'合金弹头7隐藏的秘密'（老孙聊游戏，79.5万，15:57）、'第一次去美国，被吓到了'（老番茄，75.8万，11:29）、'探秘日本最贵关东煮'（Meetfood觅食，728万，09:44）、'站起来就是活'（人类早期纪录片，143.2万，03:38）、'选哪个？iPhone 18 Pro&Duo深度上手'（影视飓风，1572万，27:12）、'skill美剧 学英语也太高效了'（狗哥笔记，20.5万，01:30）、'幸亏我暂停的够快'（小猪佩奇 第十一季，2110.9万，01:30）、'【哈利波特马尔福是女生？】'（罗联档案室的摸鱼王，34.4万，01:30）、'《人民的恶魔》'（龙三条，26.7万，20:26）、'你管这叫留守老人？'（咪克菌，258.7万，01:35）；直播卡已排除。第二屏最高为'幸亏我暂停的够快'（2110.9万）。还需滚动观察第三屏。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度查看第三屏\"}}",
+    "valid": false,
+    "error": "Previous S1 was in_progress. This decision must still report current_subtask=S1; if its work is done, report subtask_status=completed and next_subtask=S2. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已识别推荐视频卡片结构：卡片含缩略图、播放量、时长、标题、UP主，广告卡和直播卡已排除。第一屏候选已记录：'去了一趟山西'（563.6万，影视飓风，22:13）、'万字合集'午夜梦回生化危机（197.9万，迷影区间，03:38:51）、'梗百科'娘化马尔福（145.2万，梗百科，02:02）。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度查看第二屏\"}}",
+    "valid": true
+  }
+]

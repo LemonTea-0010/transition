@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"当前屏幕显示：如家精选酒店(上海国家会展中心嘉怡路地铁站店)¥241起/1,619条；汉庭酒店(上海江宁路店)¥258起/287条；如家酒店·neo(上海川黄路川沙地铁站店)¥167起/4,056条。这些卡片序号尚未确认，需继续向上滚动查看第1—12个卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看第1—12个酒店卡片\"}}",
+    "valid": true
+  }
+]

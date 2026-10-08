@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选已确认：生化危机系列197.9万（迷影区间，03:38:51）、去了一趟山西563.6万（影视飓风，22:13）、娘化马尔福145.2万（梗百科，02:02）；广告卡OiiOii已排除，轮播卡无播放量不计入。屏次划分：初始视口为第一屏，每次滚动一个视口高度。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度查看第二屏\"}}",
+    "valid": false,
+    "error": "Previous S1 was in_progress. This decision must still report current_subtask=S1; if its work is done, report subtask_status=completed and next_subtask=S2. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"S1已完成：识别出第一屏推荐卡片，排除广告卡（OiiOii MiniMax H3）和无播放量的轮播卡（门捷列夫很忙）。有效候选：生化危机系列197.9万/迷影区间/03:38:51、去了一趟山西563.6万/影视飓风/22:13、娘化马尔福145.2万/梗百科/02:02。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S1 completed, advance to S2\"}}",
+    "valid": true
+  }
+]

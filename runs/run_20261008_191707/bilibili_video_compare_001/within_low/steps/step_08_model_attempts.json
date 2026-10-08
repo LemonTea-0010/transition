@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S4进行中：三个屏次候选已记录——第一屏最高为影视飓风563.5万（去了一趟山西，22:13），第二屏最高为小猪佩奇2110.9万（幸亏我暂停的够快），第三屏最高为哔哩哔哩电影5793.5万（哪吒之魔童闹海，11:02）。比较三者播放量，5793.5万最高，推荐哪吒之魔童闹海。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"比较完成，进入S5输出最终报告\"}}",
+    "valid": false,
+    "error": "Previous S3 was in_progress. This decision must still report current_subtask=S3; if its work is done, report subtask_status=completed and next_subtask=S4. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"S3完成：三个屏次候选均已记录。第一屏最高为影视飓风563.5万（去了一趟山西，22:13）；第二屏最高为小猪佩奇2110.9万（幸亏我暂停的够快）；第三屏最高为哔哩哔哩电影5793.5万（哪吒之魔童闹海，11:02）。第三屏已实际观察到，不再滚动。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"三个屏次候选已全部记录，进入S4比较\"}}",
+    "valid": true
+  }
+]

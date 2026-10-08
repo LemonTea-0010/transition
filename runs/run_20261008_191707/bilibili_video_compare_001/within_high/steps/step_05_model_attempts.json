@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第一屏候选已记录，最高为去了一趟山西563.6万/影视飓风/22:13（第一屏）。第二屏尚未观察，需向下滚动一个视口。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度查看第二屏推荐视频\"}}",
+    "valid": true
+  }
+]

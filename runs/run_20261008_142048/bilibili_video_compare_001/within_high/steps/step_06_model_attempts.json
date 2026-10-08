@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"候选1已记录：躲在垃圾岛上的叛军竟能翻盘？合金弹头7隐藏的秘密！/老孙聊游戏/79.5万/15:57。候选2已记录：第一次去美国，被吓到了……/老番茄/75.8万/11:29。候选3尚未记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进S3记录第三个候选\"}}",
+    "valid": true
+  }
+]

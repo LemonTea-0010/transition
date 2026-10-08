@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"三个屏次候选已记录：第一屏去了一趟山西（影视飓风，563.5万，22:13）；第二屏小猪佩奇（2110.9万，番剧）；第三屏伍六七（1.0亿，哔哩哔哩国创）。比较三者播放量：伍六七1.0亿 > 小猪佩奇2110.9万 > 去了一趟山西563.5万，最高者为伍六七。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S4比较完成，伍六七播放量最高，进入S5输出最终报告\"}}",
+    "valid": true
+  }
+]

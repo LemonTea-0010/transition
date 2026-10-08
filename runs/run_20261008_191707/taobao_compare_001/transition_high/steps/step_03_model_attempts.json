@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认行次计数：第1行为¥99干葱姜料酒、¥99 POLO衫、¥1.41橡皮擦、¥20 QQ会员、¥10话费、¥9.99垃圾袋（均1000+至5万+人购买）；第2行为¥69记录本、¥13.8南果梨、¥1.61井盐、¥2.01笔筒、¥1.51玉米糁、¥59.9药品；第3行为¥175卫衣、¥5.6灯笼、¥20广源卡、¥38.8棉签、¥3.9雕牌洗衣粉、¥1.21牙签。第1—3行区间最低价为第3行¥1.21牙签（1000+人购买）。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第4—6行商品，记录第3—6行区间候选\"}}",
+    "valid": false,
+    "error": "Previous S1 was in_progress. This decision must still report current_subtask=S1; if its work is done, report subtask_status=completed and next_subtask=S2. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认商品网格行次：第1行（¥99姜葱、¥99 POLO、¥1.41铅笔、¥20 QQ会员、¥10话费、¥9.99垃圾袋）；第2行（¥69记录本、¥13.8南果梨、¥1.61井盐、¥2.01笔筒、¥1.51玉米糁、¥59.9药品）；第3行（¥175卫衣、¥5.6灯笼、¥20广源卡、¥38.8棉签、¥3.9雕牌洗衣粉、¥1.21牙签）。行次计数方式已明确，S1完成。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第4-6行商品，为S3区间比较做准备\"}}",
+    "valid": true
+  }
+]

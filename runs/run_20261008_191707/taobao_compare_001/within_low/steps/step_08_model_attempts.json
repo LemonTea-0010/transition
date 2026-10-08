@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第1-3行候选已记录：洁柔卷纸¥2.21/1000+（行1）、抽绳垃圾袋¥1.51/1000+（行2）、三角梅¥16.8/1000+（行3），最低为垃圾袋¥1.51。第3-6行候选已记录：垃圾袋¥1.51（行3）、月饼¥11.66/1000+（行4）、裤架¥42.9/1000+（行5）、美图秀秀¥0.1/5万+（行6），最低为美图秀秀¥0.1。第6-9行候选已记录：美图秀秀¥0.1（行6）、哈根达斯月饼¥52.9/1000+（行7）、锡纸盘¥17/1000+（行8）、蕾梦心事摆件¥68/1000+（行9），最低为美图秀秀¥0.1。三区间候选齐备，进入S4比较。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"比较三个区间候选：购买人数降序、价格升序、页面顺序\"}}",
+    "valid": false,
+    "error": "Previous S1 was completed; current_subtask must be S2"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认行号计数：第1行=洁柔卷纸¥2.21/1000+、垃圾袋¥1.51/1000+、三角梅¥16.8/1000+、蒙氏插座¥16.9/1000+、雪丽擦¥5.58/1万+、淘享卡¥1.2/1万+；第2行=五仁月饼¥11.66/1000+、裤架¥42.9/1000+、美图秀秀¥0.1/5万+、月饼¥52.9/1000+、锡纸盘¥17/1000+、留声机¥68/1000+。第3行及以后尚未看到，需继续下滚。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3行及后续商品行\"}}",
+    "valid": true
+  }
+]

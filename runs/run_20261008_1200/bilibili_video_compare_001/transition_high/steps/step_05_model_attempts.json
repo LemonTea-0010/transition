@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Candidate 1 recorded: 生化危机合集 by 迷影区间, 197.9万, 03:38:51. Now recording candidate 2: 去了一趟山西。 by 影视飓风, 播放量 563.5万, 时长 22:13. Candidate 3 still needs recording.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance decision loop\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选已记录：关东煮728万(09:44)、山西563.6万(22:13)、生化危机197.9万(38:51)、娘化马尔福145.2万(02:02)、合金弹头79.5万(15:57)、美国75.8万(11:29)，第一屏最高为关东煮728万。向下滚动后截图显示空白区域，页面可能仍在加载，第二屏尚未观察到。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down one viewport height to reach second screen content\"}}",
+    "valid": true
+  }
+]

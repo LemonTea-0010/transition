@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—5组候选为第5个维也纳国际酒店(上海外高桥自贸区杨高北路店)广告，¥244起，2,532条点评。当前屏幕显示建国璞隐酒店(上海新国际博览中心世博园店)¥856起(3,020条点评)、上海虹桥中心爱琴海亚朵S酒店¥948起(4,219条点评)、上海丽呈花园酒店¥425起(8,760条点评)。需继续向下滚动确认第6—10个卡片的连续序号。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第6—10个酒店卡片\"}}",
+    "valid": true
+  }
+]

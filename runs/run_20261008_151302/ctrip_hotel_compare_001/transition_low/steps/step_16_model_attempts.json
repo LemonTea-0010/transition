@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"S5完成：三个组候选为组1第5个如家neo川沙¥167/4,056条、组2第9个非繁云居¥166/13条、组3第12个浦东温德姆¥395/6,578条。最终推荐第12个浦东温德姆酒店，因其点评数6,578为三者最多，无需平局裁决。仅浏览比较，未进行预订。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S5报告完成，任务结束\"}}",
+    "valid": true
+  }
+]

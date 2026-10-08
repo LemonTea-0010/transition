@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"三个候选均已记录且都显示播放量：1)躲在垃圾岛上的叛军竟能翻盘？合金弹头7隐藏的秘密！/老孙聊游戏/79.5万/15:57；2)第一次去美国，被吓到了……/老番茄/75.8万/11:29；3)探秘日本最贵关东煮，价格差50倍！到底有多好吃？/Meetfood觅食/728万/09:44。比较：728万>79.5万>75.8万，候选3播放量最高。页面出现比较提示弹窗，需先关闭。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"click\", \"x\": 779, \"y\": 471, \"direction\": null, \"text\": null, \"target_description\": \"关闭候选视频比较提示弹窗\"}}",
+    "valid": true
+  }
+]

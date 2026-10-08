@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New deals visible: Blink Video Doorbell 55%, Ring Spotlight Battery 25%, Ring Pathlight Battery 20%, Kindle Scribe Folio Cover 25%, Kindle Scribe Folio Cover 17%, Made for Amazon Battery Base 25%, Ring Solar Pathlight 20%, Ring Floodlight Wired 29%, Made for Amazon Frame 26%, Ring Sensors Car Tracker 20%. Need to continue scrolling to bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to continue viewing more device deals\"}, \"observations\": [{\"name\": \"Blink Video Doorbell\", \"discount_percent\": 55}, {\"name\": \"Ring Spotlight Battery\", \"discount_percent\": 25}, {\"name\": \"Ring Pathlight Battery\", \"discount_percent\": 20}, {\"name\": \"Amazon Kindle Scribe Folio Cover with Magnetic Attach\", \"discount_percent\": 25}, {\"name\": \"Amazon Kindle Scribe Folio Cover with Magnetic Attach\", \"discount_percent\": 17}, {\"name\": \"Made for Amazon Battery Base, for Echo Dot\", \"discount_percent\": 25}, {\"name\": \"Ring Solar Pathlight\", \"discount_percent\": 20}, {\"name\": \"Ring Floodlight Wired\", \"discount_percent\": 29}, {\"name\": \"Made for Amazon Frame for Echo Show 21\", \"discount_percent\": 26}, {\"name\": \"Ring Sensors: Car Tracker and Alarm\", \"discount_percent\": 20}], \"ranking\": []}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已看到上海酒店列表页，共9852家酒店。第1个卡片：维也纳国际酒店(上海浦东机场店)，4.7分，18,517条点评，¥293起；第2个卡片：全季酒店(上海顾村公园菊联路店)，广告，4.5分，680条点评，价格被遮挡约¥35x；第3个卡片：如家精选酒店(上海国家会展中心嘉怡路地铁站店)，4.8分，1,619条点评，价格未见。仍需继续识别后续卡片的价格与点评数。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片以识别价格和点评数\"}}",
+    "valid": true
+  }
+]

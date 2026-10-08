@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第8个卡片：全季酒店(上海浦东机场店)，¥402起，3,174条点评；第9个卡片：非繁云居酒店(上海虹桥火车站国家会展中心店)，¥166起，13条点评。还需继续浏览确认第10个及以后的卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片，确认第10个及以后的卡片\"}}",
+    "valid": true
+  }
+]

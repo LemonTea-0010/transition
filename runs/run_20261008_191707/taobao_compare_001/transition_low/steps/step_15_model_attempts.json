@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"S5完成：三个区间候选为——第1—3行：第2行WPS会员¥0.88（购买人数未见）；第3—6行：第6行牙签¥1.21（购买人数未见）；第6—9行：第8行抽纸¥1.41（1000+人购买）。推荐第8行抽纸¥1.41，理由：三个候选中仅其有明确购买人数显示（1000+人购买），按购买人数优先原则胜出；另两个候选购买人数未在页面显示，无法比较。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终报告。\"}}",
+    "valid": true
+  }
+]

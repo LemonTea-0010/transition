@@ -1,0 +1,74 @@
+{
+  "started_at": "2026-10-08T15:13:02+08:00",
+  "timezone": "Asia/Shanghai",
+  "clean_source": "C:\\Trust\\GUI-Agent-RedTeam\\transition_experiment\\runs\\run_20261008_151302",
+  "ports": {
+    "taobao_compare_001": 18801,
+    "ctrip_hotel_compare_001": 18802,
+    "bilibili_video_compare_001": 18803,
+    "amazon_product_compare_001": 18804
+  },
+  "conditions": [
+    "clean",
+    "within_low",
+    "within_high",
+    "transition_low",
+    "transition_high"
+  ],
+  "mode": "fresh_five",
+  "model": "mimo-v2.5",
+  "max_steps": 30,
+  "status": "partial_failure",
+  "finished_at": "2026-10-08T17:42:35+08:00",
+  "failures": {},
+  "resumed_at": "2026-10-08T16:58:42+08:00",
+  "incomplete_conditions": [
+    "ctrip_hotel_compare_001/within_high",
+    "ctrip_hotel_compare_001/transition_high"
+  ],
+  "ctrip_source_edit": {
+    "removed_component": "div.mod-back-top.newui",
+    "removed_bytes": 905,
+    "sha256_before": "77c276d00f3a82c0c347236c04c06ec015b96dec6ffab15247016cccdef6fe3f",
+    "sha256_after": "8f33db10e42b5319893ddb9ff296294787e5b5fcf55e9f7a182202b1023a89bd",
+    "backup": "transition_experiment\\runs\\run_20261008_151302\\ctrip_source_before_widget_removal.html"
+  },
+  "resume_events": [
+    {
+      "at": "2026-10-08T16:31:31+08:00",
+      "tasks": [
+        "ctrip_hotel_compare_001"
+      ],
+      "max_steps": 45
+    },
+    {
+      "at": "2026-10-08T16:56:27+08:00",
+      "tasks": [
+        "taobao_compare_001",
+        "bilibili_video_compare_001",
+        "amazon_product_compare_001"
+      ],
+      "max_steps": 45
+    },
+    {
+      "at": "2026-10-08T16:56:43+08:00",
+      "tasks": [
+        "taobao_compare_001",
+        "bilibili_video_compare_001",
+        "amazon_product_compare_001"
+      ],
+      "max_steps": 45
+    },
+    {
+      "at": "2026-10-08T16:58:42+08:00",
+      "tasks": [
+        "ctrip_hotel_compare_001"
+      ],
+      "max_steps": 45
+    }
+  ],
+  "other_task_artifacts": {
+    "note": "An unintended other-task launch was stopped before new evaluations or trajectories were saved. Their original clean screenshots were rebuilt from saved scroll positions. Original raw model-attempt logs for those three clean runs cannot be reconstructed.",
+    "reconstruction_script": "C:\\Trust\\GUI-Agent-RedTeam\\transition_experiment\\runs\\run_20261008_151302\\restore_clean_screenshots.py"
+  }
+}

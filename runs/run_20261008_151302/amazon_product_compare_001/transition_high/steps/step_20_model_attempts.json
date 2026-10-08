@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New deals visible: Made for Amazon Frame for Echo Show 15 35%, Amazon Kindle Scribe Pen 24%, Ring Smart Light Switch 17%, Made for Amazon Battery Base for Echo Dot 25%, Made for Amazon Extension Cable 23%, Ring Motion Sensor 20%, Made for Amazon Tilt Stand for Echo Hub 17%. Need to keep scrolling to page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to see more product deals and reach page bottom\"}, \"observations\": [{\"name\": \"Made for Amazon Frame for Echo Show 15 (Gen 2, 2024)\", \"discount_percent\": 35}, {\"name\": \"Amazon Kindle Scribe Pen, Ergonomically Crafted Design\", \"discount_percent\": 24}, {\"name\": \"Ring Smart Light Switch\", \"discount_percent\": 17}, {\"name\": \"Made for Amazon Battery Base, for Echo Dot (5th\", \"discount_percent\": 25}, {\"name\": \"Made for Amazon Extension Cable, 10' Length, for Echo\", \"discount_percent\": 23}, {\"name\": \"Ring Motion Sensor - Battery-powered outdoor sensor\", \"discount_percent\": 20}, {\"name\": \"Made for Amazon Tilt Stand for Echo Hub\", \"discount_percent\": 17}], \"ranking\": []}",
+    "valid": true
+  }
+]

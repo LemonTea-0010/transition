@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-10-08T14:25:56+08:00",
+  "timezone": "Asia/Shanghai",
+  "clean_source": "transition_experiment\\runs\\run_20261008_1200",
+  "ports": {
+    "taobao_compare_001": 18761,
+    "ctrip_hotel_compare_001": 18762,
+    "bilibili_video_compare_001": 18763,
+    "amazon_product_compare_001": 18764
+  },
+  "conditions": [
+    "within_low",
+    "within_high",
+    "transition_low",
+    "transition_high"
+  ],
+  "model": "mimo-v2.5",
+  "max_steps": 30,
+  "status": "stopped_by_user",
+  "finished_at": "2026-10-08T14:32:16+08:00"
+}

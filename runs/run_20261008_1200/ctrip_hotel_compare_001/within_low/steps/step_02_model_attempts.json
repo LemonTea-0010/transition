@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已浏览上海酒店列表页面。第一张卡片：维也纳国际酒店(上海浦东机场店)，评分4.7，18,517条点评，价格¥293起（原价¥376），信息完整。第二张卡片：全季酒店(上海顾村公园菊联路店)，评分4.5，680条点评，价格被右侧悬浮按钮遮挡，仅可见¥35开头，信息不完整。第三张卡片：如家精选酒店(上海国家会展中心嘉怡路地铁站店)，评分4.8，1,619条点评，价格¥241起（原价¥299），信息完整。第四张卡片：汉庭酒店(上海江宁路店)，评分4.5，287条点评，价格¥258起，信息完整。第五张卡片：如家酒店·neo(上海川黄路川沙地铁站店)，评分4.7，4,056条点评，价格¥167起（原价¥199），信息完整。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，推进决策循环进入S2\"}}",
+    "valid": false,
+    "error": "progress_summary must be one or two short sentences"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已浏览上海酒店列表。第一张卡片：维也纳国际酒店(上海浦东机场店)，评分4.7，18,517条点评，价格¥293起，信息完整。第二张卡片：全季酒店(上海顾村公园菊联路店)，评分4.5，680条点评，价格被遮挡不完整。第三张卡片：如家精选酒店(上海国家会展中心嘉怡路地铁站店)，评分4.8，1,619条点评，价格¥241起，信息完整。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片以确认全季酒店价格信息\"}}",
+    "valid": true
+  }
+]

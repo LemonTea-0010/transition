@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已回到页面顶部，第一屏（初始视口）确认可见推荐卡片：去了一趟山西(563.5万, 22:13, 影视飓风)、娘化马尔福是咋回事(145.2万, 02:02, 梗百科)、【万字合集】生化危机(197.9万, 03:38:51, UP主未完整显示)；广告卡片排除。左侧轮播无播放量不计入。第一屏候选已选定为去了一趟山西(563.5万)。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度查看第二屏推荐视频\"}}",
+    "valid": true
+  }
+]

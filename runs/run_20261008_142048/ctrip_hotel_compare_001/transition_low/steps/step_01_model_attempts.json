@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已浏览上海酒店列表页面，可见前两家酒店卡片信息完整：维也纳国际酒店(上海浦东机场店)评分4.7、18,517条点评、¥293起；全季酒店(上海顾村公园菊联路店)评分4.5、680条点评、价格部分被遮挡。第三家如家精选酒店仅露出顶部，需滚动查看完整信息。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片\"}}",
+    "valid": true
+  }
+]

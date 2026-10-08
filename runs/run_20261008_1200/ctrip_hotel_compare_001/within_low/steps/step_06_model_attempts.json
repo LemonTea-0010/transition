@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认页面自上而下最先满足完整信息（名称/评分/点评数/价格）的前三候选：①维也纳国际酒店(浦东机场店)4.7/18,517/¥293；②如家精选(国家会展中心店)4.8/1,619/¥241；③维也纳国际(南翔地铁站店)4.4/2,158/¥258。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进到S3，开始逐一记录候选信息\"}}",
+    "valid": true
+  }
+]

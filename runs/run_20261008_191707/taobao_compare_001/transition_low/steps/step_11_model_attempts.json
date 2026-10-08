@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—3行区间最低价候选已记录为第2行WPS会员¥0.88（购买人数未见）。当前屏幕显示第5行（收纳记录本¥69/南果梨¥13.8/深井盐¥1.61/笔筒¥2.01/玉米糁¥1.51/关节药¥59.9）和第6行（卫衣¥175/灯笼¥5.6/广源卡¥20/棉签¥38.8/洗衣粉¥3.9/牙签¥1.21）。第3—6行区间最低价候选为第6行牙签¥1.21。需继续滚动浏览至第9行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动继续浏览第7—9行商品\"}}",
+    "valid": true
+  }
+]

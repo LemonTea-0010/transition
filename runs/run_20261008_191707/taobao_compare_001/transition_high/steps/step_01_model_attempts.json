@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"当前为淘宝首页，顶部为活动/导航区（中秋好礼、百亿补贴、领券中心等），下方已出现商品卡片行：第1行可见6张卡片（抽绳垃圾袋、60抖币充值、一分购卷纸、柔纸巾、直液式走珠笔、陶瓷碗），但价格和购买人数尚未完整显示。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看商品卡片的价格和购买人数信息\"}}",
+    "valid": true
+  }
+]

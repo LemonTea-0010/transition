@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已识别Bilibili首页推荐区：第一屏可见卡片包括大轮播卡（无播放量，不计入）、【万字合集】生化危机系列（197.9万，03:38:51）、去了一趟山西（563.5万，22:13）、【梗百科】娘化马尔福（145.2万，02:02）、广告卡OiiOii（已排除）。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"先确认第一屏完整边界，准备逐屏记录候选\"}}",
+    "valid": true
+  }
+]

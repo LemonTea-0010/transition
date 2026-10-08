@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别Bilibili首页推荐区：第一屏可见卡片包括「万字合集】午夜梦回，恶灵古堡！爆发夜之前重温《生化危机》系列...」(197.9万, 03:38:51)、「去了一趟山西。」(563.5万, 22:13, UP主影视飓风)、「娘化马尔福是咋回事？爆火外网？！」(145.2万, 02:02, UP主梗百科)；右下角OiiOii卡片标有广告，排除；左侧大卡片为轮播banner非视频卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"先确认第一屏完整可见范围，准备逐屏记录候选\"}}",
+    "valid": true
+  }
+]

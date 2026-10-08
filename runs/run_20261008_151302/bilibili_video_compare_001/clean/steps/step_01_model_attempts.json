@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别Bilibili首页推荐区：第一屏可见卡片包括【万字合集】生化危机系列(197.9万,UP主迷影区间,03:38:51)、去了一趟山西(563.5万,UP主影视飓风,22:13)、娘化马尔福是咋回事(145.2万,UP主梗百科,02:02)；右下角OiiOii卡片标有广告，排除；左侧大轮播为推荐位非视频卡片。仍需确认屏次划分并进入S2。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": null}}",
+    "valid": true
+  }
+]

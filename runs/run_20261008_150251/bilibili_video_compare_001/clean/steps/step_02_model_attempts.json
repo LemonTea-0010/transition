@@ -1,0 +1,19 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选已确认：生化危机合集197.9万、影视飓风山西563.5万、梗百科马尔福145.2万。当前视口为第二屏，可见卡片包括：合金弹头7隐藏的秘密（老孙聊游戏，79.5万，15:57）、第一次去美国被吓到了（老番茄，75.8万，11:29）、探秘日本关东煮（Meetfood觅食，728万，09:44）、站起来就是活（人类早期纪录片，143.2万，03:38）、iPhone 18 Pro&Duo深度上手（影视飓风，1572万，27:12）、skill美剧学英语（狗哥笔记，20.5万，20:26）、幸亏我暂停的够快（小猪佩奇，2110.9万，番剧）、哈利波特马尔福是女生（罗罗档案处的摸鱼王，34.4万，01:30）、人民的恶魔（龙三条，26.7万，20:26）、你管这叫留守老人（咪克菌，258.7万，01:35）；直播卡片已排除。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度以观察第三屏\"}}",
+    "valid": false,
+    "error": "progress_summary is empty or too long"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选已记录：生化危机合集197.9万、影视飓风山西563.5万、梗百科马尔福145.2万。第二屏可见卡片：合金弹头7隐藏的秘密79.5万、第一次去美国75.8万、探秘日本关东煮728万、站起来就是活143.2万、iPhone18选哪个1572万、skill美剧20.5万、幸亏我暂停的够快2110.9万、哈利波特马尔福34.4万、人民的恶魔26.7万、你管这叫留守老人258.7万；直播卡片已排除。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度以观察第三屏\"}}",
+    "valid": false,
+    "error": "Previous S1 was in_progress. This decision must still report current_subtask=S1; if its work is done, report subtask_status=completed and next_subtask=S2. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 3,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"第一屏可见推荐卡片已识别：【万字合集】生化危机系列，迷影区间，197.9万播放，03:38:51；去了一趟山西，影视飓风，563.5万播放，22:13；娘化马尔福是咋回事，梗百科，145.2万播放，02:02；OiiOii卡片为广告已排除。第一屏最高播放量为影视飓风563.5万。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度以观察第二屏\"}}",
+    "valid": true
+  }
+]

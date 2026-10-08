@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第13个上海浦东机场亚朵酒店¥482起6,716条点评；第14个上海虹桥温德姆酒店¥458起5,964条点评；第15个全季酒店(上海浦东机场东站店)刚出现但价格未见。还需滚动确认第15个的价格和点评数。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第15个酒店卡片的价格和点评数\"}}",
+    "valid": true
+  }
+]

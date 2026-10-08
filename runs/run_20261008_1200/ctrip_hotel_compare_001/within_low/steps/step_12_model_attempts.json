@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"S4比较完成：候选1维也纳国际酒店(浦东机场店) 4.7/18,517/¥293；候选2维也纳国际酒店(上海南翔地铁站店) 4.4/2,158/¥258；候选3如家精选·酒店(上海国家会展中心店) 4.8/1,619/¥241。评分比较：候选3的4.8最高，候选1的4.7次之，候选2的4.4最低。无需进一步比较点评数或价格，候选3胜出。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进到S5最终推荐决策\"}}",
+    "valid": true
+  }
+]

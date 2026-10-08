@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"当前屏幕显示第13个卡片如家酒店·neo（¥271起，853条点评）和第14个卡片建国璞隐酒店（¥856起，3,020条点评）。第1—2个卡片已确认（CitiGO欢阁¥927/6,229条，亚朵¥1,121/1,996条），还需向下滚动查看第3—12个卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3个及后续酒店卡片\"}}",
+    "valid": true
+  }
+]

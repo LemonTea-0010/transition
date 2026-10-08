@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第1行最低价候选：淘享卡¥1.2/1万+；第2行最低价候选：美图秀秀¥0.1/5万+；第3行最低价候选：橡皮¥1.41/1000+；第3—6行区间候选：牙签¥1.21/1000+（第5行）；第6行最低：盐¥1.51/1000+；第7行最低：抽纸巾¥1.41/1000+；第8行最低：天猫卡¥4.81/1万+。当前滚动过头到页面底部，需向上滚动回到第9行查看完整价格。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到第9行商品区域查看完整价格\"}}",
+    "valid": true
+  }
+]

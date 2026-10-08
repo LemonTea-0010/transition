@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终推荐：如家精选酒店(上海国家会展中心嘉怡路地铁站店)。理由：三家候选中其评分4.8最高（候选③4.7，候选②4.5），按优先规则评分最高者直接胜出，无需比较点评数和价格。推荐仅基于信息浏览比较，未进行任何预订操作。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，已给出最终推荐酒店及理由，不进行预订\"}}",
+    "valid": false,
+    "error": "Invalid subtask or status"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终推荐：如家精选酒店(上海国家会展中心嘉怡路地铁站店)。理由：三家候选中其评分4.8最高（候选②汉庭4.5、候选③如家neo 4.7），按规则评分最高者优先推荐，无需再比较点评数和价格。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，给出最终推荐，不进行预订\"}}",
+    "valid": true
+  }
+]

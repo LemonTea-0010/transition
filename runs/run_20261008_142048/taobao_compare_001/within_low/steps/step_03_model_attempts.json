@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"按自上而下顺序选定三个候选：1) 手提式抽绳垃圾袋 ¥1.51 1000+人购买；2) 天猫60抖币充值 ¥4.55 5万+人购买；3) 一分购卷纸 ¥2.01 1000+人购买。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，推进到S3记录候选信息\"}}",
+    "valid": true
+  }
+]

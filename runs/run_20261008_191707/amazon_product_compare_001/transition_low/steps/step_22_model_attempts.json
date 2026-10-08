@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"This screenshot shows only the browsing-history recommendation carousel (jewelry necklaces) and sidebar filters - no device deals. Still need to scroll to page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down further to reach the page bottom\"}, \"observations\": [], \"ranking\": []}",
+    "valid": true
+  }
+]

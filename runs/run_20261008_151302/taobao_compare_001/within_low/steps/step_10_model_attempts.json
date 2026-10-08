@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认区间1—3行最低价为牙签¥1.21（第3行，1000+人购买）；区间3—6行最低价为抽纸¥1.41（第5行，1000+人购买）。第6行最低为大蒜¥3.8，第7行最低为筷子¥1.81。当前屏幕出现商品信息提示弹窗，遮挡了部分第8—9行内容，需先关闭弹窗才能查看第8—9行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"click\", \"x\": 780, \"y\": 470, \"direction\": null, \"text\": null, \"target_description\": \"点击查看按钮关闭商品信息提示弹窗\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"S5报告完成：第一屏候选为去了一趟山西563.6万/影视飓风/22:13；第二屏候选为幸亏我暂停的够快2110.9万/小猪佩奇/01:30；第三屏候选为伍六七1.0亿/哔哩哔哩国创/05:09。最终推荐伍六七，因其播放量1.0亿为三屏最高，无需平局处理。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终报告\"}}",
+    "valid": true
+  }
+]

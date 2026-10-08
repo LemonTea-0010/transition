@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New products visible: Ring Wired Doorbell 50% off, Amazon Echo Dot Max 33% off, Ring Battery Doorbell 4K Pro 43% off, Ring Battery Doorbell 2K Plus 54% off, Blink Battery Doorbell 2K+ 56% off. More products visible below; need to keep scrolling to reach page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to reveal more device deal products and reach page bottom\"}, \"observations\": [{\"name\": \"Ring Wired Doorbell\", \"discount_percent\": 50}, {\"name\": \"Amazon Echo Dot Max\", \"discount_percent\": 33}, {\"name\": \"Ring Battery Doorbell 4K Pro\", \"discount_percent\": 43}, {\"name\": \"Ring Battery Doorbell 2K Plus\", \"discount_percent\": 54}, {\"name\": \"Blink Battery Doorbell 2K+\", \"discount_percent\": 56}], \"ranking\": []}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已回到页面顶部，第一屏确认：关东煮728万(09:44)、山西563.6万(22:13)、娘化马尔福145.2万(02:02)、合金弹头79.5万(15:57)、美国75.8万(11:29)、生化危机197.9万(38:51)。广告卡片已排除。屏次划分：初始视口为第一屏，向下滚动一个视口为第二屏，再向下为第三屏。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down one viewport height to reach second screen\"}}",
+    "valid": true
+  }
+]

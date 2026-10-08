@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"S5完成：三个组候选为——组1(1-5)第5个如家neo川沙¥167/4,056条；组2(6-10)第9个非繁云居¥166/13条；组3(11-15)第12个浦东温德姆¥395/6,578条。按点评数降序：温德姆6,578条最多，故推荐第12个浦东温德姆酒店（¥395起，6,578条点评），理由是点评数最多，无需平局裁决。未进行任何预订操作。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终推荐报告并停止\"}}",
+    "valid": false,
+    "error": "Previous S4 was in_progress. This decision must still report current_subtask=S4; if its work is done, report subtask_status=completed and next_subtask=S5. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"S4完成：三个组候选为组1第5个如家neo川沙¥167/4,056条、组2第9个非繁云居¥166/13条、组3第12个浦东温德姆¥395/6,578条。按点评数降序：温德姆6,578 > 如家neo川沙4,056 > 非繁云居13，温德姆点评数最多，无需平局裁决。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S4比较完成，进入S5输出最终报告\"}}",
+    "valid": true
+  }
+]

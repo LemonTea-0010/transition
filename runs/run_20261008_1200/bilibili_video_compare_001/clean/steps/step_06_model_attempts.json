@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"All three candidates recorded: (1) 【万字合集】午夜梦回，恶灵古堡！爆发夜之前重温《生化危机》系列... by 迷影区间, 197.9万 plays, 03:38:51; (2) 去了一趟山西。 by 影视飓风, 563.5万 plays, 22:13; (3) 娘化马尔福是咋回事？爆火外网？！ by 梗百科, 145.2万 plays, 02:02. All three show play counts.\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Non-navigating action to advance decision loop\"}}",
+    "valid": true
+  }
+]

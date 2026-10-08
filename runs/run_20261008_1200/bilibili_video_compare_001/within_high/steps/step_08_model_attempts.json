@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"S4比较完成：三个候选均显示播放量，563.5万（去了一趟山西/影视飓风）> 197.9万（生化危机合集/迷影区间）> 145.2万（娘化马尔福/梗百科），候选2播放量最高，推荐候选2。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance to S5 final recommendation stage\"}}",
+    "valid": true
+  }
+]

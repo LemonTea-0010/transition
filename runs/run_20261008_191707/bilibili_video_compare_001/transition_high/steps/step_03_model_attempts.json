@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1已完成，第一屏候选已记录：'去了一趟山西'（563.6万，影视飓风，22:13）、'万字合集'午夜梦回生化危机（197.9万，迷影区间，03:38:51）、'梗百科'娘化马尔福（145.2万，梗百科，02:02）。当前截图显示空白区域，页面可能正在加载第二屏内容，需等待内容渲染后再确认第二屏候选。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"再次向下滚动以触发第二屏内容加载并观察推荐视频卡片\"}}",
+    "valid": true
+  }
+]

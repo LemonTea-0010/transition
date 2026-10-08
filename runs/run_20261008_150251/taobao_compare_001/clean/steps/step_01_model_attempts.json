@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"当前为淘宝首页，顶部为活动/导航区，下方已出现'猜你喜欢'商品网格第一行（6张卡片），但价格和购买人数尚未显示，需滚动查看。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看猜你喜欢商品行的价格与购买人数\"}}",
+    "valid": true
+  }
+]

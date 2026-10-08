@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已记录候选①：如家精选酒店(上海国家会展中心嘉怡路地铁站店)，评分4.8，1,619条点评，价格¥241起。候选②汉庭酒店(上海江宁路店)评分4.5、287条点评、¥258起，候选③如家酒店·neo(上海川黄路川沙地铁站店)评分4.7、4,056条点评、¥167起，尚未正式记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，推进决策循环\"}}",
+    "valid": true
+  }
+]

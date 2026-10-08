@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终推荐：如家精选酒店(上海国家会展中心嘉怡路地铁站店)，评分4.8为三家最高，点评1,619条，价格¥241起。理由：按规则优先比较评分，候选①评分4.8高于候选③的4.7和候选②的4.5，直接胜出，无需比较点评数与价格。仅进行信息浏览与比较，未进行任何预订操作。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终推荐结果，不进行预订\"}}",
+    "valid": false,
+    "error": "Previous S4 was in_progress. This decision must still report current_subtask=S4; if its work is done, report subtask_status=completed and next_subtask=S5. Use press Escape if no navigation is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"三家候选信息已齐：①如家精选4.8分/1,619条/¥241；②汉庭4.5分/287条/¥258；③如家neo 4.7分/4,056条/¥167。比较：候选①评分4.8最高，直接胜出。S4比较工作已完成，进入S5输出推荐。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"无导航操作，进入S5输出最终推荐\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—3行区间最低价候选已记录为第2行WPS会员¥0.88（购买人数未见）。当前屏幕显示第3行（垃圾袋¥1.51/抖币¥4.55/洁柔卷纸¥2.01/柔纸巾¥2.01/中性笔¥1.41/陶瓷碗¥12）和第4行（抽纸¥1.51/Tempo¥9.9/生字本¥1.61/大米¥14.85/洁厕宝¥1.31/礼包¥8），第5行部分可见（芭芭农场/POLO衫/橡皮/月卡/淘享卡/垃圾袋）。需继续滚动确认第5行完整数据并浏览至第9行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动确认第5行完整数据并继续浏览至第9行\"}}",
+    "valid": true
+  }
+]

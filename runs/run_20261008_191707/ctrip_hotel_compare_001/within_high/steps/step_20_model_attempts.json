@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第3个如家精选¥241/1,619条、第4个汉庭¥258/287条，第7个为如家酒店neo(川黄路川沙地铁站店)¥167起/4,056条点评。需继续向下浏览确认第8-15个卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第8个及之后的酒店卡片\"}}",
+    "valid": true
+  }
+]

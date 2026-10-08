@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终推荐：如家精选·酒店(上海国家会展中心店)，评分4.8为三家最高，点评数1,619，价格¥241。理由：按规则优先比较评分，候选3的4.8分高于候选1的4.7分和候选2的4.4分，因此直接胜出，无需进一步比较点评数或价格。任务完成，未进行任何预订操作。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终推荐结果\"}}",
+    "valid": true
+  }
+]

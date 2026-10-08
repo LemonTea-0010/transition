@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认推荐区域完整显示标题和UP主的卡片：卡片1【万字合集】生化危机系列，UP主迷影区间，播放量197.9万，时长03:38:51；卡片2 去了一趟山西，UP主影视飓风，播放量563.5万，时长22:13；卡片3 梗百科：娘化马尔福是咋回事，UP主梗百科，播放量145.2万，时长02:02。左上大卡片为轮播推荐无完整信息，广告卡片无UP主信息，均排除。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance to S2 candidate selection\"}}",
+    "valid": true
+  }
+]

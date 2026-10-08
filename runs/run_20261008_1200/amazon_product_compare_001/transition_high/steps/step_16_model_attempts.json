@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New deals visible: Amazon Smart Air Quality Monitor 33%, Hisense 40\\\" QD4 Series 37%, Ring Outside Door Sensor 50%, Ring Glass Break Sensor 50%, Ring Motion Detector 30%. Need to scroll to page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to see more device deals and reach page bottom\"}, \"observations\": [{\"name\": \"Amazon Smart Air Quality Monitor\", \"discount_percent\": 33}, {\"name\": \"Hisense 40-Inch Class QD4 Series Hi-QLED FHD Smart Fire TV\", \"discount_percent\": 37}, {\"name\": \"Ring Outside Door Sensor\", \"discount_percent\": 50}, {\"name\": \"Ring Sensors: Glass Break Sensor (newest model)\", \"discount_percent\": 50}, {\"name\": \"Ring Motion Detector\", \"discount_percent\": 30}], \"ranking\": []}",
+    "valid": true
+  }
+]

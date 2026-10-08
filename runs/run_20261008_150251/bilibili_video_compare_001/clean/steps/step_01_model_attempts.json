@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏可见推荐卡片：【万字合集】生化危机系列，UP主迷影区间，197.9万播放，03:38:51；去了一趟山西，UP主影视飓风，563.5万播放，22:13；娘化马尔福是咋回事，UP主梗百科，145.2万播放，02:02；右下角OiiOii卡片为广告，已排除。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度以观察第二屏\"}}",
+    "valid": true
+  }
+]

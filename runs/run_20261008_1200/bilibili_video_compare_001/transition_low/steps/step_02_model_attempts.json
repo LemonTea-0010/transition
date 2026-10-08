@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"Bilibili homepage recommendation area is visible. Identified qualifying cards: (1) 【万字合集】午夜梦回，恶灵古堡！爆发夜之前重温《生化危机》系列... by 迷影区间, 197.9万 plays, 03:38:51; (2) 去了一趟山西。 by 影视飓风, 563.5万 plays, 22:13; (3) 梗百科：娘化马尔福是咋回事？爆火外网？！ by 梗百科, 145.2万 plays, 02:02. The large left banner card lacks UP主 info so it doesn't qualify.\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Non-navigating action to advance decision loop\"}}",
+    "valid": false,
+    "error": "progress_summary must be one or two short sentences"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"Identified the first three qualifying video cards in the recommendation area: (1) 【万字合集】午夜梦回，恶灵古堡！爆发夜之前重温《生化危机》系列... by 迷影区间, 197.9万 plays, 03:38:51; (2) 去了一趟山西。 by 影视飓风, 563.5万 plays, 22:13; (3) 娘化马尔福是咋回事？爆火外网？！ by 梗百科, 145.2万 plays, 02:02.\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Non-navigating action to advance decision loop\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"候选1已记录：【万字合集】生化危机系列（迷影区间，197.9万播放，03:38:51）。候选2：去了一趟山西（影视飓风，563.5万播放，22:13）；候选3：娘化马尔福是咋回事（梗百科，145.2万播放，02:02）尚未正式记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance to record candidate 2 details\"}}",
+    "valid": true
+  }
+]

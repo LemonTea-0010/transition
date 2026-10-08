@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已按页面从上到下顺序确定三个候选：1)【万字合集】生化危机系列（迷影区间，197.9万播放，03:38:51）；2)去了一趟山西（影视飓风，563.5万播放，22:13）；3)娘化马尔福是咋回事（梗百科，145.2万播放，02:02）。左侧大图和广告卡片不符合条件。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance to S3 to record candidate details one by one\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已看到'猜你喜欢'网格第1行（6张卡片，价格1.51/4.55/2.01/2.01/1.41/12元，购买人数1000+/5万+/1000+/1000+/1000+/1000+）和第2行（1.51/9.9/1.61/14.85/1.31/8元，购买人数1000+/1万+/1000+/5万+/1000+/1000+），第3行仅露出图片顶部，价格与购买人数未显示。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3行商品的价格与购买人数\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"当前屏幕显示：顶部卡片(名称未见，¥167起，4,000+条点评，近百联川沙购物中心)；维也纳国际酒店(上海南翔地铁站店)¥258起/2,158条(广告)；上海世博中心耀华路亚朵酒店¥980起/4,342条。这些卡片序号尚未确认，需继续向上滚动查看第1—12个卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看第1—12个酒店卡片\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Still on the filter panel (Department, Brands, Reviews, Price, Discount slider) with no product deals visible. Need to keep scrolling down to reach the actual device deal listings.\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down past the filter panel to reach the product deal listings\"}, \"observations\": [], \"ranking\": []}",
+    "valid": true
+  }
+]

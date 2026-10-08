@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New deals visible: Like-New Amazon eero mesh wifi router 44%, Antiglare Screen Protector for Kindle 29%, Ring A19 Smart LED Bulb 33%, Harry Potter Fire HD 10 tablet 30%, Ring Solar Panel for Battery Doorbell 20%. Need to scroll to page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to see more device deals and reach page bottom\"}, \"observations\": [{\"name\": \"Like-New Amazon eero mesh wifi router\", \"discount_percent\": 44}, {\"name\": \"Antiglare Screen Protector (2 Pack), for Amazon Kindle\", \"discount_percent\": 29}, {\"name\": \"Ring A19 Smart LED Bulb\", \"discount_percent\": 33}, {\"name\": \"Harry Potter Amazon Fire HD 10 tablet 32GB\", \"discount_percent\": 30}, {\"name\": \"Ring Solar Panel - Compatible with Battery Doorbell\", \"discount_percent\": 20}], \"ranking\": []}",
+    "valid": true
+  }
+]

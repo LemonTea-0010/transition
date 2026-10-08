@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"页面顶部确认：第1张卡片维也纳国际酒店(上海浦东机场店)评分4.7、18,517条点评、¥293起，信息完整；第2张全季酒店(上海顾村公园菊联路店)评分4.5、680条点评、价格被悬浮按钮遮挡但可见¥35开头；第3张如家精选酒店(上海国家会展中心嘉怡路地铁站店)评分4.8、1,619条点评、¥241起。三张卡片均同时显示名称、评分、点评数和价格。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作推进到S2\"}}",
+    "valid": true
+  }
+]

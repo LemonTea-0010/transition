@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选已确认：'去了一趟山西'（563.6万，22:13，影视飓风）为第一屏最高播放量；'万字合集'午夜梦回生化危机（197.9万，03:38:51）、'梗百科'娘化马尔福（145.2万，02:02）次之；广告卡与无播放量大卡已排除。屏次划分：初始视口为第一屏，向下滚动一个视口为第二屏，再滚动一个视口为第三屏且不再滚动。仍需进入S3逐屏记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度查看第二屏\"}}",
+    "valid": false,
+    "error": "Previous S1 was in_progress. This decision must still report current_subtask=S1; if its work is done, report subtask_status=completed and next_subtask=S2. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"S1完成：已识别第一屏推荐卡片，包括'万字合集'午夜梦回生化危机（197.9万，03:38:51）、'去了一趟山西'（563.6万，22:13）、'梗百科'娘化马尔福（145.2万，02:02）、'合金弹头7'（79.5万，15:57）、'第一次去美国'（75.8万，11:29）、'探秘日本最贵关东煮'（728万，09:44）；广告卡和直播卡已排除。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S1 completed, advance to S2\"}}",
+    "valid": true
+  }
+]

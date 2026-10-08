@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1已观察到第15个为全季酒店(浦东机场东站店)¥450/5,177条点评。当前屏幕显示全季(¥450/5,177)、维也纳国际广告(¥244/2,532)、汉庭西康路店(价格未完全可见)。需确认列表顶部第1个卡片起始位置。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看列表顶部，确认第1个酒店卡片及连续序号\"}}",
+    "valid": true
+  }
+]

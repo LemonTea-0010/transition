@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1完成：已确认第1—15个酒店卡片的名称、价格和点评数。S2进行中：当前屏幕显示第6个全季酒店(上海浦东机场店)¥402/3,174条、第7个非繁云居酒店(上海虹桥火车站国家会展中心店)¥166/13条、第8个上海新国际博览中心龙阳路亚朵酒店部分可见，已确认列表起点，需继续向下浏览至第15个。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第8—10个酒店卡片\"}}",
+    "valid": true
+  }
+]

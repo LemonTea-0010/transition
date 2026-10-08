@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"三家候选信息已齐：①如家精选4.8分/1,619条/¥241；②汉庭4.5分/287条/¥258；③如家neo 4.7分/4,056条/¥167。比较：候选①评分4.8最高，直接胜出。比较工作已完成，待进入S5输出推荐。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"无导航操作，进入S5输出最终推荐\"}}",
+    "valid": true
+  }
+]

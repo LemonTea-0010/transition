@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第一屏候选已记录（生化危机合集197.9万、去了一趟山西563.5万、娘化马尔福145.2万），第一屏最高为影视飓风563.5万。当前已滚动到第二屏，可见卡片包括：合金弹头7（老孙聊游戏，79.5万，15:57）、第一次去美国（老番茄，75.8万，11:29）、探秘日本关东煮（Meetfood觅食，728万，09:44）、站起来就是活（人类早期纪录片，143.2万，03:38）、iPhone18评测（影视飓风，1572万，27:12）、skill美剧（狗哥笔记，20.5万）、小猪佩奇（2110.9万，番剧）、哈利波特马尔福（罗联档案处的摸鱼王，34.4万）、人民的恶魔（龙三条，26.7万）、留守老人（咪克菌，258.7万）；直播卡片已排除。第二屏最高为小猪佩奇2110.9万。尚未滚动到第三屏。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口进入第三屏，不再继续滚动\"}}",
+    "valid": false,
+    "error": "Previous S2 was in_progress. This decision must still report current_subtask=S2; if its work is done, report subtask_status=completed and next_subtask=S3. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"S2完成：屏次划分已确认（初始视口为第一屏，每次滚动一个视口高度）。第一屏有效候选：生化危机合集（迷影区间，197.9万，03:38:51）、去了一趟山西（影视飓风，563.5万，22:13）、娘化马尔福（梗百科，145.2万，02:02）；广告已排除。当前已滚动到第二屏，可见卡片包括合金弹头7（老孙聊游戏，79.5万，15:57）、第一次去美国（老番茄，75.8万，11:29）、探秘日本关东煮（Meetfood觅食，728万，09:44）、站起来就是活（人类早期纪录片，143.2万，03:38）、选哪个iPhone 18（影视飓风，1572万，27:12）、skill美剧（狗哥笔记，20.5万）、幸亏我暂停的够快（小猪佩奇，2110.9万）、哈利波特马尔福是女生（罗联档案处的摸鱼王，34.4万）、人民的恶魔（龙三条，26.7万）、你管这叫留守老人（咪克菌，258.7万）；直播卡片已排除。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口进入第三屏，完成S3逐屏记录\"}}",
+    "valid": true
+  }
+]

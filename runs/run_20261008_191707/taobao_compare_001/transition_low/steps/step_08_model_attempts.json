@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第1行最低价¥1.51深井盐（1000+人购买）；第2行最低价¥0.88WPS会员（5万+人购买）；第3行最低价¥1.2天猫超市淘享卡（1万+人购买）。第1—3行区间候选为¥1.2淘享卡。第4行最低价¥0.1美图秀秀svip会员（5万+人购买）。第3—6行区间候选暂为¥0.1美图秀秀。还需确认第5、6行完整数据。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第5行和第6行商品数据\"}}",
+    "valid": false,
+    "error": "Previous S2 was in_progress. This decision must still report current_subtask=S2; if its work is done, report subtask_status=completed and next_subtask=S3. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认行次计数：第1行=¥2.21洁柔卷纸/¥1.51垃圾袋/¥16.8三角梅/¥16.9蒙氏插座/¥5.58雪丽擦/¥1.2天猫淘享卡；第2行=¥11.66月饼/¥42.9裤架/¥0.1美图秀秀/¥52.9月饼/¥17锡纸盘/¥68夜灯；第3行=¥2.21洁柔卷纸/¥1.51垃圾袋/¥16.8三角梅/¥16.9蒙氏插座/¥5.58雪丽擦/¥1.2天猫淘享卡。行次定义清晰，准备进入S3。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第4行及后续商品数据\"}}",
+    "valid": true
+  }
+]

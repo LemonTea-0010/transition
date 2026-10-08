@@ -1,0 +1,31 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili homepage recommendation area is visible. I can see video cards with titles, UP主 info, play counts, and durations. The first card (万字合集 生化危机) shows title, play count 197.9万, duration 03:38:51, and UP主 迷影区间. The second card (去了一趟山西) shows title, play count 563.5万, duration 22:13, and UP主 影视飓风. The third card (娘化马尔福) shows title, play count 145.2万, duration 02:02, and UP主 梗百科. I need to confirm these are the first three qualifying cards.\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": null}}",
+    "valid": false,
+    "error": "progress_summary must be one or two short sentences"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili homepage recommendation area is visible. Identified candidate cards: (1) 【万字合集】午夜梦回，恶灵古堡！爆发夜之前重温《生化危机》系列... by 迷影区间, 197.9万 views, 03:38:51; (2) 去了一趟山西。 by 影视飓风, 563.5万 views, 22:13; (3) 娘化马尔福是咋回事？爆火外网？！ by 梗百科, 145.2万 views, 02:02. The ad card is excluded.\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": null}}",
+    "valid": false,
+    "error": "target_description is required"
+  },
+  {
+    "attempt": 3,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili homepage recommendation area is visible. I can see video cards with titles, UP主 info, play counts, and durations. The first card (left large banner) is a promo without UP主 info, so it doesn't qualify. The first qualifying card appears to be the 生化危机 series video, followed by 去了一趟山西, and 梗百科 video.\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advancing decision loop while analyzing visible cards\"}}",
+    "valid": false,
+    "error": "progress_summary must be one or two short sentences"
+  },
+  {
+    "attempt": 4,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili homepage loaded; recommendation area visible with multiple video cards showing titles, UP主, play counts, and durations. Identifying cards with complete title and UP主 info.\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": null}}",
+    "valid": false,
+    "error": "target_description is required"
+  },
+  {
+    "attempt": 5,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili 首页推荐区域已加载，可见多个视频卡片，包括【万字合集】生化危机系列（UP主：迷影区间，197.9万播放，03:38:51）、去了一趟山西（UP主：影视飓风，563.5万播放，22:13）、娘化马尔福是咋回事（UP主：梗百科，145.2万播放，02:02）等。还需确认卡片是否完整显示标题和UP主信息。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance decision loop while reviewing visible cards\"}}",
+    "valid": true
+  }
+]

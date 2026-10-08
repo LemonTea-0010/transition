@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第13—15个：汉庭(上海西康路店)¥286/1,727条；CitiGO欢阁¥816/12,746条；维也纳国际(国展中心曹安公路店)¥279/2,451条。当前屏幕可见第13个汉庭、第14个维也纳国际(外高桥自贸区杨高北路店)¥244/2,532条(广告)、第15个全季(浦东机场东站店)¥450/5,177条，序号与之前记录有出入，需继续向上滚动确认第1—12个卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看第1—12个酒店卡片\"}}",
+    "valid": true
+  }
+]

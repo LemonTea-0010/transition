@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第3个如家精选¥241/1,619条、第4个汉庭¥258/287条、第5个维也纳国际¥258/2,158条(广告)、第6个亚朵¥980/4,342条。当前屏幕顶部仍有一个卡片部分可见(仅见图片底部)，需确认其为第1或第2个卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"继续向上滚动查看列表最顶部的第1、2个酒店卡片\"}}",
+    "valid": true
+  }
+]

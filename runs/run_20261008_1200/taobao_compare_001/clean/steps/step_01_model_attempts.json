@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"当前为淘宝首页，推荐商品区域（'猜你喜欢'下方）可见多个商品卡片，但截图中仅显示商品图片和部分标题，未看到价格和购买人数信息，需要向下滚动查看完整卡片信息。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看推荐商品卡片的完整信息（标题、价格、购买人数）\"}}",
+    "valid": true
+  }
+]

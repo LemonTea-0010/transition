@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认列表序号：第3个如家精选¥241/1,619条，第4个汉庭¥258/287条，第5个如家neo¥167/4,056条。第1—5个已全部观察到，第6个及之后尚未看到。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第6个及之后的酒店卡片\"}}",
+    "valid": false,
+    "error": "Previous S1 was in_progress. This decision must still report current_subtask=S1; if its work is done, report subtask_status=completed and next_subtask=S2. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"S1识别完成：第1个维也纳国际酒店(上海浦东机场店)¥293起/18,517条点评；第2个全季酒店(上海顾村公园菊联路店)广告¥358起/680条点评；第3个如家精选酒店(上海国家会展中心嘉怡路地铁站店)¥241起/1,619条点评；第4个汉庭酒店(上海江宁路店)¥258起/287条点评；第5个如家酒店·neo(上海川黄路川沙地铁站店)¥167起/4,056条点评。列表顺序和字段已明确。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第6个及之后的酒店卡片，确认连续序号\"}}",
+    "valid": true
+  }
+]

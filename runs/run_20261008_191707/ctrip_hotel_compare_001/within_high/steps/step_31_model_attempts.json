@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1完成：已确认第1—15个酒店卡片的名称、价格和点评数。S2进行中：当前屏幕显示第12个上海新国际博览中心龙阳路亚朵酒店¥918/2,485条、第13个全季酒店(上海松江体育中心地铁站店)广告¥396/869条、第14个上海浦东温德姆酒店¥395/6,578条，需继续向上滚动确认第1个卡片起点。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"继续向上滚动回到列表顶部确认第1个酒店卡片起点\"}}",
+    "valid": true
+  }
+]

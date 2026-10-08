@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选已记录：「去了一趟山西」(563.5万,22:13,影视飓风)。第二屏候选已记录：「幸亏我暂停的够快」(2110.9万,小猪佩奇 第十一季)。当前截图显示已回到页面顶部(第一屏)，需向下滚动一个视口到第二屏，再滚动一个视口到第三屏。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度到第二屏\"}}",
+    "valid": true
+  }
+]

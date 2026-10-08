@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"已回到页面顶部确认最早卡片顺序。自上而下：1) 维也纳国际酒店(上海浦东机场店)，评分4.7，18,517条点评，价格¥293起（原价¥376），信息完整；2) 全季酒店(上海顾村公园菊联路店)，评分4.5，680条点评，价格被悬浮按钮遮挡，信息不完整；3) 如家精选酒店(上海国家会展中心嘉怡路地铁站店)，评分4.8，1,619条点评，价格¥241起，信息完整。S1完成，需进入S2确定前三候选。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作推进决策循环进入S2\"}}",
+    "valid": true
+  }
+]

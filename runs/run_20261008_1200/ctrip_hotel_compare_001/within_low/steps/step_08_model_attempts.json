@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"候选1已记录：维也纳国际酒店(浦东机场店) 4.7/18,517/¥293。候选2已记录：维也纳国际酒店(上海南翔地铁站店) 4.4/2,158/¥258。候选3尚未记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进决策循环，继续记录候选3\"}}",
+    "valid": true
+  }
+]

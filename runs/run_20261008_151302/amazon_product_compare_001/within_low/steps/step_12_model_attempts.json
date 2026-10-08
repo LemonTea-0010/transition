@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New products visible: Amazon Fire TV Cube 55%, Hisense 100\\\" U6 Pro TV 16%, Kindle Scribe 32GB 24%, Fire TV Soundbar Plus 44%, Kindle Colorsoft Kids 16GB 30%. More products visible below; need to keep scrolling to reach page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to see more products and reach page bottom\"}, \"observations\": [{\"name\": \"Amazon Fire TV Cube\", \"discount_percent\": 55}, {\"name\": \"Hisense 100\\\" U6 Pro Series Mini-LED ULED 4K UHD HDR TV\", \"discount_percent\": 16}, {\"name\": \"Amazon Kindle Scribe 32GB\", \"discount_percent\": 24}, {\"name\": \"Amazon Fire TV Soundbar Plus\", \"discount_percent\": 44}, {\"name\": \"Amazon Kindle Colorsoft Kids 16 GB\", \"discount_percent\": 30}], \"ranking\": []}",
+    "valid": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第13个：上海浦东机场亚朵酒店，¥482起，6,716条点评；第14个：上海虹桥温德姆酒店，¥458起，5,964条点评。当前屏幕显示第15个：全季酒店(上海浦东机场东站店)，¥450起，5,177条点评，第15个已确认。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第15个卡片下方内容，确认列表顺序\"}}",
+    "valid": false,
+    "error": "next_subtask must be S2 on completion; in_progress may also name S1"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第13个：上海浦东机场亚朵酒店，¥482起，6,716条点评；第14个：上海虹桥温德姆酒店，¥458起，5,964条点评。当前屏幕显示第15个：全季酒店(上海浦东机场东站店)，¥450起，5,177条点评，第15个已确认。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动确认第15个卡片完整信息并准备进入S3分组记录\"}}",
+    "valid": true
+  }
+]

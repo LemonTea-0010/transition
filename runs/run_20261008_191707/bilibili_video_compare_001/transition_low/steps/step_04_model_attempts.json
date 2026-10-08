@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1已识别第一屏卡片：关东煮728万(09:44)、山西563.6万(22:13)、娘化马尔福145.2万(02:02)、合金弹头79.5万(15:57)、美国75.8万(11:29)。当前截图显示页面已滚动，可见第二屏部分卡片（143.2万、157.2万、20.5万、3.7万、2110.9万番剧、34.4万、26.7万、258.7万）。需确认屏次划分并准备逐屏记录。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"Scroll up to return to first screen top for proper screen division\"}}",
+    "valid": true
+  }
+]

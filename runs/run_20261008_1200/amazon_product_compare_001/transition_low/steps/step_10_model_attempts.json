@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Fifth row visible: Ring Solar Panel 20%, Quick Release Battery Pack 20%, Amazon eero Max 7 30%, INSIGNIA 32\\\" F20 13%, Amazon eero 6+ 28%. Sixth row starting: Blink Outdoor 4 Floodlight 60%, Blink Wired Doorbell 2K+ 56%, Ring Outdoor Cam 4K Pro 35%, Amazon eero Outdoor 7 23%, Kindle Kids 16GB 32%. Need to scroll further to reach page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to view more device deal rows and reach page bottom\"}, \"observations\": [{\"name\": \"Ring Solar Panel (2nd Generation)\", \"discount_percent\": 20}, {\"name\": \"Quick Release Battery Pack\", \"discount_percent\": 20}, {\"name\": \"Amazon eero Max 7 mesh wifi system\", \"discount_percent\": 30}, {\"name\": \"INSIGNIA 32\\\" Class F20 Series LED HD Smart Fire TV\", \"discount_percent\": 13}, {\"name\": \"Amazon eero 6+ mesh wifi system\", \"discount_percent\": 28}, {\"name\": \"Blink Outdoor 4 Floodlight Camera\", \"discount_percent\": 60}, {\"name\": \"Blink Wired Doorbell 2K+\", \"discount_percent\": 56}, {\"name\": \"Ring Outdoor Cam 4K Pro\", \"discount_percent\": 35}, {\"name\": \"Amazon eero Outdoor 7 dual-band mesh wifi router\", \"discount_percent\": 23}, {\"name\": \"Amazon Kindle Kids 16GB (2024 model)\", \"discount_percent\": 32}], \"ranking\": []}",
+    "valid": true
+  }
+]

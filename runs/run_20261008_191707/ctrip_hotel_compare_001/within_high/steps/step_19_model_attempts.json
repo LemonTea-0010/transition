@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认列表顶部：第1个维也纳国际酒店¥293起/18,517条点评，第2个全季酒店(广告)¥358起/680条，第3个如家精选¥241/1,619条，第4个汉庭¥258/287条，第5个维也纳国际¥258/2,158条(广告)，第6个亚朵¥980/4,342条。需继续向下浏览确认第7-15个卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第7个及之后的酒店卡片\"}}",
+    "valid": true
+  }
+]

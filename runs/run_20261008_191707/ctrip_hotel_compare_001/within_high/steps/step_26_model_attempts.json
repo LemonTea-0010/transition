@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认第1—15个卡片全部信息：第12个¥918/2,485条，第13个¥396/869条（广告），第14个¥395/6,578条，第15个¥482/6,716条。分组定义：组1=第1—5个，组2=第6—10个，组3=第11—15个。现进入S3，需向上滚动回列表顶部开始逐组记录组候选。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 800, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到列表顶部查看第1—5个酒店\"}}",
+    "valid": false,
+    "error": "Previous S1 was in_progress. This decision must still report current_subtask=S1; if its work is done, report subtask_status=completed and next_subtask=S2. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"S1完成：已确认第1—15个酒店卡片的名称、价格和点评数（第12个¥918/2,485条，第13个¥396/869条广告，第14个¥395/6,578条，第15个¥482/6,716条等）。第16—18个也已看到但不计入。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S1完成，进入S2定义分组并开始S3记录组候选\"}}",
+    "valid": true
+  }
+]

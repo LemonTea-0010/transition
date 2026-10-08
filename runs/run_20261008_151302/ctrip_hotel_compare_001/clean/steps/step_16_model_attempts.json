@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第1-5组候选已记录：第1个维也纳国际酒店(上海浦东机场店)¥293/18,517条点评，第2个全季酒店(上海顾村公园菊联路店)广告¥358/680条点评，第3个如家精选酒店(上海国家会展中心嘉怡路地铁站店)¥241/1,619条点评。还需继续向下滚动查看第4、5个酒店卡片以完成第1-5组候选记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第4-5个酒店卡片，完成第1-5组候选记录\"}}",
+    "valid": true
+  }
+]

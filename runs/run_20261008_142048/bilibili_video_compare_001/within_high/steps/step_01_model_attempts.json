@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili 首页推荐区域已可见，右侧有多个视频卡片，其中【万字合集】生化危机系列卡片和去了一趟山西卡片完整显示标题、UP主、播放量和时长。左下大卡片为轮播推荐，标题和UP主信息不完整。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多推荐视频卡片\"}}",
+    "valid": true
+  }
+]

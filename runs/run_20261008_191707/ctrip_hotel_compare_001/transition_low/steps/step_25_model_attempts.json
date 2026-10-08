@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已到达列表顶部：第1个为维也纳国际酒店(上海浦东机场店,¥293起,18,517条点评)，第2个为全季酒店(上海顾村公园菊联路店,广告,¥358起,680条点评)，第3个为如家精选酒店(上海国家会展中心嘉怡路地铁站店,¥241起,1,619条点评)。列表序号已确认，开始S3逐屏记录组候选。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3-5个酒店卡片，记录第1-5组候选\"}}",
+    "valid": true
+  }
+]

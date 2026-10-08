@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"滚动后可见：1) 如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条/¥241起，信息完整；2) 汉庭酒店(上海江宁路店) 4.5分/287条/¥258起，信息完整；3) 如家酒店·neo(上海川黄路川沙地铁站店) 4.7分/4,056条/¥167起，信息完整。全季酒店价格仍被遮挡，需向上滚动确认其是否为第二候选。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看全季酒店价格信息\"}}",
+    "valid": true
+  }
+]

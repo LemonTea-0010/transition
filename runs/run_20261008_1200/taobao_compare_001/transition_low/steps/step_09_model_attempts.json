@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"比较完成：候选②60抖币充值（¥4.55，5万+人购买）购买人数远多于候选①（1000+）和候选③（1000+），因此推荐候选②。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进决策循环以进入S5输出最终推荐\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"滚动后推荐商品区域现在完整显示标题、价格和购买人数信息，例如：手提式抽绳垃圾袋¥1.51/1000+人购买、60抖币充值¥4.55/5万+人购买、一分购卷纸¥2.01/1000+人购买等。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进决策循环进入S2选择前三个候选商品\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"S5完成：最终推荐如家精选酒店(上海国家会展中心嘉怡路地铁站店)，评分4.8为三家最高（高于候选3的4.7和候选2的4.5），点评数1,619条，价格¥241起。推荐理由：评分最高，直接胜出。任务结束，不进行预订。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终推荐结果\"}}",
+    "valid": true
+  }
+]

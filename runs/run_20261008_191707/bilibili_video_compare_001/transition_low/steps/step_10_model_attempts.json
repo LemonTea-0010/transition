@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"三屏候选：第一屏关东煮728万(09:44)；第二屏番剧2110.9万(03:00)；第三屏哪吒之魔童闹海5793.5万(1:49:00)。5793.5万最高，推荐第三屏的哪吒之魔童闹海，理由是三屏候选中播放量最高且无平局。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"Final report complete; task finished\"}}",
+    "valid": true
+  }
+]

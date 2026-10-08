@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"三屏候选已全部记录：第一屏去了一趟山西(563.5万, 22:13, 影视飓风)；第二屏幸亏我暂停的够快(2110.9万, 小猪佩奇第十一季)；第三屏选哪个iPhone 18 Pro&Duo(1572万, 27:12, 影视飓风)。第三屏其他可见卡片均低于1572万。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"比较三屏候选播放量，进入S4推荐决策\"}}",
+    "valid": false,
+    "error": "S3 requires at least two prior in_progress decisions recording candidates separately"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第一屏候选：去了一趟山西(563.5万, 22:13, 影视飓风)。第二屏候选：幸亏我暂停的够快(2110.9万, 小猪佩奇第十一季)。当前截图显示页面回到顶部（第一屏），需重新滚动到第三屏观察候选。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动两个视口高度到达第三屏\"}}",
+    "valid": true
+  }
+]

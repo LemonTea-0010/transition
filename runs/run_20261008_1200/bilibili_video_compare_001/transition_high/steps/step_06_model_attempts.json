@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"All three candidates recorded: (1) 生化危机合集 by 迷影区间, 197.9万, 03:38:51; (2) 去了一趟山西。 by 影视飓风, 563.5万, 22:13; (3) 梗百科：娘化马尔福是咋回事？ by 梗百科, 145.2万, 02:02. All three show play counts.\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance decision loop\"}}",
+    "valid": true
+  }
+]

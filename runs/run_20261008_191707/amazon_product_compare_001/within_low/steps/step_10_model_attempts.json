@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Modal dismissed. Visible deals match previously collected items (Ring Pan-Tilt 50%, Blink Outdoor 4 XR 65%, eero 7 15%, Blink Outdoor XR+ 65%, Ring Chime 20%, Fire HD 8 38%, Echo Dot Kids 33%, Fire HD 8 Kids 44%, Fire HD 10 Kids 43%, Ring Wired Doorbell 2K Plus 50%). eero 7 15% is new and lowest. Need to continue scrolling to bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to continue viewing more device deals\"}, \"observations\": [{\"name\": \"Amazon eero 7 dual-band mesh Wi-Fi 7 router\", \"discount_percent\": 15}], \"ranking\": []}",
+    "valid": true
+  }
+]

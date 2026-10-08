@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S2已确定三个候选：手提式抽绳垃圾袋¥1.51 1000+人购买、天猫60抖币充值¥4.55 5万+人购买、一分购卷纸¥2.01 1000+人购买。现在开始记录第一个候选的完整信息。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作推进决策循环，记录候选1信息\"}}",
+    "valid": false,
+    "error": "Cannot skip a subtask status: current_subtask must be S2"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确定最先出现的三个候选商品：1) 手提式抽绳垃圾袋 ¥1.51 1000+人购买；2) 天猫60抖币充值 ¥4.55 5万+人购买；3) 一分购卷纸 ¥2.01 1000+人购买。三者均完整显示标题、价格和购买人数。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作推进决策循环，进入S3记录第一个候选\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第1—3行最低价为第3行牙签¥1.21/1000+人购买。新滚动后可见第3行（¥175/¥5.6/¥20/¥38.8/¥3.9/¥1.21）、第4行（¥89/¥1.51/¥1.51/¥39.9/¥2.01/¥999）、第5行（¥1.41/¥19/¥1.81/¥79.9/¥25/¥1.8）。第3—6行最低价为第5行阳江菜刀¥1.8/1万+人购买。还需继续下滚确认第6—9行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第6行及之后的商品\"}}",
+    "valid": false,
+    "error": "Previous S2 was in_progress. This decision must still report current_subtask=S2; if its work is done, report subtask_status=completed and next_subtask=S3. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认行计数方式：第1行（¥175/¥5.6/¥20/¥38.8/¥3.9/¥1.21）、第2行（¥89/¥1.51/¥1.51/¥39.9/¥2.01/¥999）、第3行（¥1.41/¥19/¥1.81/¥79.9/¥25/¥1.8）完整可见。第1—3行最低价为第3行办公用抽纸¥1.41/1000+人购买。行计数已定义完毕，需继续下滚确认第4—9行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第4行及之后的商品\"}}",
+    "valid": true
+  }
+]

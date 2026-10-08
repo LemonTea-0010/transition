@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别上海酒店列表页，按卡片自上而下计数：第1个为维也纳国际酒店(上海浦东机场店)，当前价¥293起，18,517条点评；第2个为全季酒店(上海顾村公园菊联路店)，广告卡片，¥358起，680条点评；第3个为如家精选酒店(上海国家会展中心嘉怡路地铁站店)，4.8分，1,619条点评，价格尚未完整可见。仍需继续浏览确认后续卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片\"}}",
+    "valid": true
+  }
+]

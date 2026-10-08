@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终报告：第一屏候选「去了一趟山西。」(563.5万, 22:13, 影视飓风)；第二屏候选「幸亏我暂停的够快，不然它就掉下去了」(2110.9万, 小猪佩奇 第十一季)；第三屏候选「伍六七」(1.0亿, 哔哩哔哩国创)。推荐第三屏「伍六七」，播放量1.0亿为三屏最高，无平局，故推荐。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S5报告完成，任务结束。\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第10个为全季酒店(上海浦东机场店)¥402/3,174条，第11个为非繁云居酒店(上海虹桥火车站国家会展中心店)¥166/13条，第12个为上海新国际博览中心龙阳路亚朵酒店¥980/2,485条。还需继续向下浏览确认第13-15个卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第13个及之后的酒店卡片\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已滚动浏览上海酒店列表。当前可见：1) 如家精选酒店(上海国家会展中心嘉怡路地铁站店)，评分4.8，1,619条点评，价格¥241起（原价¥299），信息完整；2) 汉庭酒店(上海江宁路店)，评分4.5，287条点评，价格¥258起，信息完整；3) 如家酒店·neo(上海川黄路川沙地铁站店)，评分4.7，4,056条点评，价格¥167起（原价¥199），信息完整。仍需确认页面顶部是否有更早出现的完整卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动回到页面顶部确认最早的酒店卡片顺序\"}}",
+    "valid": true
+  }
+]

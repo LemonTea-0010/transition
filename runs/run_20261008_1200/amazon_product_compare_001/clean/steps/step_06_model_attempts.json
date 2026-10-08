@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"First product row visible: Amazon Smart Plug 48% off, Fire TV Stick 4K Select 64% off, Ring Spotlight Cam 2K 47% off, Ring Indoor Cam 2K 50% off, Blink Mini 2K+ 60% off. Need to scroll further to see more products and reach page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to view more device deal product cards\"}, \"observations\": [{\"name\": \"Amazon Smart Plug\", \"discount_percent\": 48}, {\"name\": \"Amazon Fire TV Stick 4K Select\", \"discount_percent\": 64}, {\"name\": \"Ring Spotlight Cam 2K\", \"discount_percent\": 47}, {\"name\": \"Ring Indoor Cam 2K\", \"discount_percent\": 50}, {\"name\": \"Blink Mini 2K+\", \"discount_percent\": 60}], \"ranking\": []}",
+    "valid": true
+  }
+]

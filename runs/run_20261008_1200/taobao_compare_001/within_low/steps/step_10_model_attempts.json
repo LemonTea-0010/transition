@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终推荐：60抖币充值，¥4.55，5万+人购买。理由：三个候选中它的购买人数最多（5万+人购买，远超另外两个的1000+人购买），按优先规则直接胜出，无需比较价格和位置。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终推荐结果\"}}",
+    "valid": true
+  }
+]

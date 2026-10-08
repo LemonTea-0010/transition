@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"已确认第10个上海新国际博览中心龙阳路亚朵酒店¥918起2,485条点评、第11个全季酒店(上海松江体育中心地铁站店)广告¥396起869条点评、第12个上海浦东温德姆酒店¥395起6,578条点评。第1-12个卡片序号已全部确认，第13-15个此前已确认，S2完成。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S2完成，进入S3逐组记录最低价候选。第1-5组：第1个¥293、第2个¥358、第3个¥241、第4个¥258、第5个¥167，最低为第5个如家酒店neo ¥167起4,056条点评。\"} }",
+    "valid": true
+  }
+]

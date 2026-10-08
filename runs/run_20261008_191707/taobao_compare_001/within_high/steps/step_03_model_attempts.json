@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第3行已完整可见：superniniyy素颜卫衣¥175/1万+人、天猫中秋儿童手提灯笼¥5.6/1000+人、广源卡20元电子卡¥20/1万+人、天猫日式棉签掏耳¥38.8/100+人、雕牌洗衣粉¥3.9/1万+人、餐饮饭店牙签竹签¥1.21/1000+人。第1—3行数据已齐，但S1还需确认网格行次计数方式（顶部活动卡片不计入），需再滚动确认第4行起为连续商品行。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第4行商品，确认行次连续计数方式\"}}",
+    "valid": true
+  }
+]

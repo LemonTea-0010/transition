@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第14个上海浦东机场亚朵酒店¥482/6,716条，第15个全季酒店(浦东机场东站店)¥450/5,177条。本屏出现汉庭酒店(长寿路商业区)¥286/1,727条、上海徐家汇CitiGO欢阁酒店¥816/12,746条、维也纳国际酒店(国展中心曹安公路店)¥279/2,451条，需确认这些卡片的列表序号。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动确认汉庭、CitiGO、维也纳卡片的列表序号\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"S4比较完成：第一屏'去了一趟山西'563.6万 < 第三屏'童年阴影'1954.3万 < 第二屏'哪吒之魔童闹海'5793.5万，第二屏候选播放量最高，无平局。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S4比较完成，转入S5输出最终报告\"}}",
+    "valid": true
+  }
+]

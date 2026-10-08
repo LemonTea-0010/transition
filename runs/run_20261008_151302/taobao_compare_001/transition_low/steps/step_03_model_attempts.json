@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认行计数：第1行（¥99/¥99/¥1.41/¥20/¥10/¥9.99）、第2行（¥69/¥13.8/¥1.61/¥2.01/¥1.51/¥59.9）、第3行（¥175/¥5.6/¥20/¥38.8/¥3.9/¥1.21）完整可见。第1—3行最低价为第3行牙签¥1.21/1000+人购买。还需继续下滚确认第4—9行。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第4行及之后的商品\"}}",
+    "valid": true
+  }
+]

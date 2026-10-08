@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别：第7个上海世博中心耀华路亚朵酒店¥980起（顶部部分可见）；第8个全季酒店(上海浦东机场店)4.8分，3,174条点评，¥402起；第9个非繁云居酒店(上海虹桥火车站国家会展中心店)13条点评，¥16x起（价格被遮挡需确认）。仍需确认第9个完整价格并继续识别后续卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动以确认第9个酒店完整价格并查看后续卡片\"}}",
+    "valid": true
+  }
+]

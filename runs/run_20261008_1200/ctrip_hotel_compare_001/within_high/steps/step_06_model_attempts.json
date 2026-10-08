@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"候选1已记录：维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起。候选2信息已知但价格被遮挡：全季酒店(上海顾村公园菊联路店) 4.5分/680条点评/¥35开头。候选3信息已知：如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条点评/¥241起。需滚动确认候选2完整价格。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看候选2全季酒店的完整价格信息\"}}",
+    "valid": false,
+    "error": "S3 in_progress must explicitly say what candidate work remains unfinished"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"候选1已记录：维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起。候选2(全季酒店)和候选3(如家精选酒店)信息已在S2确认，但尚未按S3要求逐条正式记录，候选2价格¥35开头被遮挡需注意。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，推进S3记录候选2信息\"}}",
+    "valid": true
+  }
+]

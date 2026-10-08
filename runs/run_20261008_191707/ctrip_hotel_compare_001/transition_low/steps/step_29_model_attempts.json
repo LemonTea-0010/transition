@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第1—5组候选已定：第5个如家酒店·neo(¥167起,4,056条点评)。当前可见第6个维也纳国际酒店(上海南翔地铁站店,广告,¥258起,2,158条点评)和第7个上海世博中心耀华路亚朵酒店(¥980起,4,342条点评)。需继续向下滚动查看第8—10个酒店。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第8—10个酒店卡片\"}}",
+    "valid": true
+  }
+]

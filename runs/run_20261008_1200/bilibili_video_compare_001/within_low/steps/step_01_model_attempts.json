@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili 首页已加载，推荐区域可见多个视频卡片。左侧大卡片为轮播位（无完整 UP 主信息），右侧可见两个完整卡片：【万字合集】生化危机系列（UP主：迷影区间，播放197.9万，时长03:38:51）和 去了一趟山西。（UP主：影视飓风，播放563.5万，时长22:13）。下方还有梗百科卡片部分可见。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": null}}",
+    "valid": false,
+    "error": "target_description is required"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili homepage loaded; recommendation area visible with multiple video cards showing titles, UP主, play counts, and durations. Still need to identify the first three qualifying cards in order.\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance decision loop while analyzing visible cards\"}}",
+    "valid": true
+  }
+]

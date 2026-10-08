@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"比较完成：候选2（天猫60抖币充值 ¥4.55）购买人数为5万+，明显多于候选1和候选3的1000+，因此候选2胜出。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进到S5给出最终推荐\"}}",
+    "valid": true
+  }
+]

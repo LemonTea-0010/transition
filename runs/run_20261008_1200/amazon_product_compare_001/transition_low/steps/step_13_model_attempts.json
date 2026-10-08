@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New row visible: Amazon Plant-Based Leather Case 33%, TCL 55\\\" F8D Series 16%, Official Luna Wireless Controller 43%, Amazon Fire TV Alexa Voice Remote Pro 43%, Amazon Echo Show 5 Kids 45%. Next row starting: Kindle case 31%, Ring Doorbell 20%, Fire TV Soundbar 22%, Fire TV Soundbar Plus 37%, Kindle Scribe 21%. Need to scroll further to reach page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to view more device deal rows and reach page bottom\"}, \"observations\": [{\"name\": \"Amazon Plant-Based Leather Case - Lightweight, Protective\", \"discount_percent\": 33}, {\"name\": \"TCL 55-Inch F8D Series 120Hz 4K UHD QLED Smart Fire TV\", \"discount_percent\": 16}, {\"name\": \"Official Luna Wireless Controller\", \"discount_percent\": 43}, {\"name\": \"Amazon Fire TV Alexa Voice Remote Pro (newest model)\", \"discount_percent\": 43}, {\"name\": \"Amazon Echo Show 5 Kids (newest model)\", \"discount_percent\": 45}], \"ranking\": []}",
+    "valid": true
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"三个屏次候选已记录：第一屏去了一趟山西（影视飓风，563.5万，22:13）；第二屏小猪佩奇（2110.9万，番剧，第二屏）；第三屏伍六七（1.0亿，哔哩哔哩国创，第三屏）。比较播放量：伍六七1.0亿 > 小猪佩奇2110.9万 > 去了一趟山西563.5万，最高为伍六七。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"比较完成，伍六七最高，进入S5报告\"}}",
+    "valid": false,
+    "error": "Previous S3 was in_progress. This decision must still report current_subtask=S3; if its work is done, report subtask_status=completed and next_subtask=S4. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个屏次候选均已记录：第一屏候选为去了一趟山西（影视飓风，563.5万，22:13）；第二屏候选为小猪佩奇（2110.9万，番剧）；第三屏候选为伍六七（1.0亿，哔哩哔哩国创）。第三屏已实际观察到，S3完成。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S3已完成，进入S4比较三个候选播放量\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已向上滚动至列表顶部附近，当前可见第1个卡片（高级大床房无窗，¥395起，无酒店名显示在顶部）、第2个上海浦东机场亚朵酒店（¥482起，6,716条点评）、第3个上海虹桥温德姆酒店（¥458起，5,964条点评）。第1个卡片名称被截断，需继续向上滚动确认第1个卡片完整信息。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"继续向上滚动到列表最顶部，确认第1个酒店卡片的完整名称和信息\"}}",
+    "valid": true
+  }
+]

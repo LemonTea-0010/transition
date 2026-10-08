@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别Bilibili首页推荐区：第一屏可见卡片包括大卡'门捷列夫：很忙'（无播放量显示，不计入）、'万字合集'午夜梦回生化危机系列（197.9万播放，UP主迷影区间，时长03:38:51）、'去了一趟山西'（563.6万播放，UP主影视飓风，时长22:13）、'梗百科'娘化马尔福（145.2万播放，UP主梗百科，时长02:02）、以及右下角广告卡（已排除）。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度查看第二屏\"}}",
+    "valid": true
+  }
+]

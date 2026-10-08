@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第1行最低价候选：淘享卡¥1.2/1万+；第2行最低价候选：美图秀秀¥0.1/5万+。当前看到第3行部分商品（芭芭农场葱姜料酒、POLO衫、少屑橡皮、QQ音乐月卡、天猫超市卡、抽绳垃圾袋），价格被截断，需继续下滚查看完整第3行价格。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第3行完整价格\"}}",
+    "valid": true
+  }
+]

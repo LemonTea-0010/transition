@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"New row visible: Ring Pan-Tilt Indoor Cam 50%, Blink Outdoor 4 XR 65%, Amazon eero 7 15%, Blink Outdoor XR+ 65%, Ring Chime 20%. eero 7 15% is new lowest. Still need to scroll to page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to reveal more device deal rows and reach page bottom\"}, \"observations\": [{\"name\": \"Ring Pan-Tilt Indoor Cam\", \"discount_percent\": 50}, {\"name\": \"Blink Outdoor 4 XR\", \"discount_percent\": 65}, {\"name\": \"Amazon eero 7\", \"discount_percent\": 15}, {\"name\": \"Blink Outdoor XR+\", \"discount_percent\": 65}, {\"name\": \"Ring Chime\", \"discount_percent\": 20}, {\"name\": \"Amazon Fire HD 8 tablet\", \"discount_percent\": 38}, {\"name\": \"Amazon Echo Dot Kids\", \"discount_percent\": 33}, {\"name\": \"Amazon Fire HD 8 Kids tablet\", \"discount_percent\": 44}, {\"name\": \"Amazon Fire HD 10 Kids tablet\", \"discount_percent\": 43}, {\"name\": \"Ring Wired Doorbell 2K Plus\", \"discount_percent\": 50}], \"ranking\": []}",
+    "valid": true
+  }
+]

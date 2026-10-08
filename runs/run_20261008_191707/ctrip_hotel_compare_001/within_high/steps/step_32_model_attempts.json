@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1完成：已确认第1—15个酒店卡片的名称、价格和点评数。S2进行中：当前屏幕显示第1个如家精选酒店(上海国家会展中心嘉怡路地铁站店)¥241/1,619条、第2个汉庭酒店(上海江宁路店)¥258/287条、第3个如家酒店neo(上海川黄路川沙地铁站店)¥167/4,056条，已确认列表起点，需继续向下浏览至第15个。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第4—6个酒店卡片\"}}",
+    "valid": true
+  }
+]

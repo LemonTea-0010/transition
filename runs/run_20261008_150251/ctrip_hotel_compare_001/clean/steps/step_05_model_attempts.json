@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别：第7个上海新国际博览中心龙阳路亚朵酒店4.7分2,485条点评¥918起；第8个全季酒店(上海松江体育中心地铁站店)广告4.7分869条点评¥396起；第9个上海浦东温德姆酒店4.5分6,578条点评¥395起。仍需继续识别第10个及后续卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动以查看第10个及后续酒店卡片\"}}",
+    "valid": true
+  }
+]

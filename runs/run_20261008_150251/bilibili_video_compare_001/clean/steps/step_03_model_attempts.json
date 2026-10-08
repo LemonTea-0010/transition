@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已滚动到第二屏，可见多张推荐卡片：伍六七（哔哩哔哩国创，1.0亿播放，国创标签）、如何养回原本优秀的前额叶（Iris学姐，17.4万，05:09）、嘉豪老祖（蘑尔瓦多，83万，06:56）、奔跑吧兄弟第2季（综艺哔哔机，1006.3万）、超市里已经没有人类了（老番茄，398.7万，33:42）等。第一屏候选保持不变：影视飓风563.5万。需确认第二屏完整范围并选出该屏最高播放量候选。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"继续向下滚动以确认第二屏完整范围和所有可见卡片\"}}",
+    "valid": true
+  }
+]

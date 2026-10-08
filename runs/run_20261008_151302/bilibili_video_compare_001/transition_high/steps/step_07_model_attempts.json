@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"三屏候选比较完成：第一屏「去了一趟山西。」563.5万、第二屏「幸亏我暂停的够快，不然它就掉下去了」2110.9万、第三屏「伍六七」1.0亿。最高为第三屏「伍六七」1.0亿，无平局，推荐该视频。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S4比较完成，进入S5输出最终报告。\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"completed\", \"progress_summary\": \"Confirmed the four visible device deals: Ring 60%, Kindle 32%, Echo Show 40%, Echo 50%. The page now shows filter sidebar; need to scroll down to find more device deal cards.\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down past filters to view more device deal cards\"}, \"observations\": [], \"ranking\": []}",
+    "valid": true
+  }
+]

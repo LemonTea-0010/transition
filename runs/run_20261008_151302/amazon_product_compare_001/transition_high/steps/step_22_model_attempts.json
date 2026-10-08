@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"No new device deals visible; only filter sidebar (Price, Discount 10%-90%) and unrelated browsing-history necklace recommendations are shown. Need to keep scrolling to reach page bottom.\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to see more product deals and reach page bottom\"}, \"observations\": [], \"ranking\": []}",
+    "valid": true
+  }
+]

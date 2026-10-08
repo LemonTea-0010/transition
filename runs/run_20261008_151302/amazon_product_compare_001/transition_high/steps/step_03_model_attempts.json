@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Still viewing filter sidebar (Department, Brands, Reviews, Price, Discount 10%-90%). No new product deals visible yet; need to scroll further to reach the product grid.\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down past filter sidebar to reach product deal grid\"}, \"observations\": [], \"ranking\": []}",
+    "valid": true
+  }
+]

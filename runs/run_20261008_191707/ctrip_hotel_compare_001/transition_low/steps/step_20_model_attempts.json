@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已向上滚动，当前可见上海浦东机场亚朵酒店(¥482起,6,716条点评)和上海虹桥温德姆酒店(¥458起,5,964条点评)，顶部还有一个部分可见的¥395起卡片。还需继续向上滚动到列表顶部确认第1个酒店。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"继续向上滚动到列表最顶部，确认第1个酒店卡片\"}}",
+    "valid": true
+  }
+]

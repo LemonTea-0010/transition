@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—3行区间最低价候选为第2行WPS会员¥0.88；第3—6行区间最低价候选为第6行牙签¥1.21。当前屏幕显示第7行（丝巾¥89/深井盐¥1.51/抽纸¥1.51/清洁膏¥39.9/悬挂抽纸¥2.01/韩束粉饼¥999）和第8行（抽纸¥1.41/挂衣架¥19/抽纸¥1.81/自行车灯¥79.9/果盘¥25/菜刀¥1.8）。第6—9行区间最低价候选暂为第8行抽纸¥1.41。需继续滚动确认第9行完整数据。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第9行商品完整数据\"}}",
+    "valid": true
+  }
+]

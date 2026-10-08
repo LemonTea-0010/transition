@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"三个候选已记录：1) 手提式抽绳垃圾袋 ¥1.51 1000+人购买；2) 天猫60抖币充值 ¥4.55 5万+人购买；3) 一分购卷纸 ¥2.01 1000+人购买。比较购买人数：候选2为5万+，明显多于候选1和候选3的1000+，因此候选2胜出。S4比较完成，进入S5给出最终推荐。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，推进到S5最终推荐阶段\"}}",
+    "valid": true
+  }
+]

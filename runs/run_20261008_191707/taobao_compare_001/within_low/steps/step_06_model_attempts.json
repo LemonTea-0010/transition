@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已记录第1-7行商品。第8行：香菇肉片¥12.99/1000+、定金NyaNya裙¥6/1000+、深井盐¥1.51/1000+、砂锅¥28.8/1万+、抽纸¥2.01/1万+、擦窗器¥2.01/1000+。第9行：茶卡盐湖盐¥3.21/1000+、发圈¥1.31/1000+、资生堂护手霜¥24/1000+、WPS会员¥0.88/5万+、月饼礼盒¥52.9/1000+、榴莲月饼¥11.2/500+。还需确认第9行完整并进入S3计算区间候选。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"继续向下滚动确认第9行完整商品信息\"}}",
+    "valid": true
+  }
+]

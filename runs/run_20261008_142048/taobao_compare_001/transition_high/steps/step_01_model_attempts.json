@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"淘宝首页已加载，底部推荐商品区域可见6个商品卡片，但当前截图中商品卡片仅显示标题，价格和购买人数信息未完整显示，需要向下滚动查看完整信息。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 600, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看推荐商品完整信息\"}}",
+    "valid": true
+  }
+]

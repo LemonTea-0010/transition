@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"当前屏幕显示：顶部卡片为高级大床房(无窗)¥395起(酒店名未见，需向上滚动确认)；上海浦东机场亚朵酒店¥482起/6,716条；上海虹桥温德姆酒店¥450起/5,964条；底部露出全季酒店(上海浦东机场东站店)。需继续向上滚动确认第1—12个卡片的完整序号与数据。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看第1—12个酒店卡片\"}}",
+    "valid": true
+  }
+]

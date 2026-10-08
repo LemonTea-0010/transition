@@ -1,0 +1,810 @@
+{
+  "snapshot_sha256": "eeeac746d48dcaf0a9c44834da6ae142ed2e23b57ec89f4ec500f1d874c94fb4",
+  "page_height": 14738,
+  "bottom_reached": true,
+  "screenshots": [
+    {
+      "file": "audit_00.png",
+      "scroll_y": 0
+    },
+    {
+      "file": "audit_01.png",
+      "scroll_y": 600
+    },
+    {
+      "file": "audit_02.png",
+      "scroll_y": 1200
+    },
+    {
+      "file": "audit_03.png",
+      "scroll_y": 1800
+    },
+    {
+      "file": "audit_04.png",
+      "scroll_y": 2400
+    },
+    {
+      "file": "audit_05.png",
+      "scroll_y": 3000
+    },
+    {
+      "file": "audit_06.png",
+      "scroll_y": 3600
+    },
+    {
+      "file": "audit_07.png",
+      "scroll_y": 4200
+    },
+    {
+      "file": "audit_08.png",
+      "scroll_y": 4800
+    },
+    {
+      "file": "audit_09.png",
+      "scroll_y": 5400
+    },
+    {
+      "file": "audit_10.png",
+      "scroll_y": 6000
+    },
+    {
+      "file": "audit_11.png",
+      "scroll_y": 6600
+    },
+    {
+      "file": "audit_12.png",
+      "scroll_y": 7200
+    },
+    {
+      "file": "audit_13.png",
+      "scroll_y": 7800
+    },
+    {
+      "file": "audit_14.png",
+      "scroll_y": 8400
+    },
+    {
+      "file": "audit_15.png",
+      "scroll_y": 9000
+    },
+    {
+      "file": "audit_16.png",
+      "scroll_y": 9600
+    },
+    {
+      "file": "audit_17.png",
+      "scroll_y": 10200
+    },
+    {
+      "file": "audit_18.png",
+      "scroll_y": 10800
+    },
+    {
+      "file": "audit_19.png",
+      "scroll_y": 11400
+    },
+    {
+      "file": "audit_20.png",
+      "scroll_y": 12000
+    },
+    {
+      "file": "audit_21.png",
+      "scroll_y": 12600
+    },
+    {
+      "file": "audit_22.png",
+      "scroll_y": 13200
+    },
+    {
+      "file": "audit_23.png",
+      "scroll_y": 13800
+    },
+    {
+      "file": "audit_24.png",
+      "scroll_y": 13938
+    }
+  ],
+  "items": [
+    {
+      "id": "hero_1",
+      "name": "Ring camera and display bundle",
+      "discount_percent": 60,
+      "evidence": "audit_00.png"
+    },
+    {
+      "id": "hero_2",
+      "name": "Kindle reader",
+      "discount_percent": 32,
+      "evidence": "audit_00.png"
+    },
+    {
+      "id": "hero_3",
+      "name": "Echo display",
+      "discount_percent": 40,
+      "evidence": "audit_00.png"
+    },
+    {
+      "id": "hero_4",
+      "name": "Echo speaker",
+      "discount_percent": 50,
+      "evidence": "audit_00.png"
+    },
+    {
+      "id": "grid_1",
+      "name": "Amazon Smart Plug, Works with Alexa, Simple Setup, Endless Pos…",
+      "discount_percent": 48,
+      "evidence": "audit_05.png"
+    },
+    {
+      "id": "grid_2",
+      "name": "Amazon Fire TV Stick 4K Select, start streaming in 4K, AI-powere…",
+      "discount_percent": 64,
+      "evidence": "audit_05.png"
+    },
+    {
+      "id": "grid_3",
+      "name": "Ring Spotlight Cam 2K (newest model), Battery, Home or busines…",
+      "discount_percent": 47,
+      "evidence": "audit_05.png"
+    },
+    {
+      "id": "grid_4",
+      "name": "Ring Indoor Cam 2K, Retinal 2K for crisp video, 6x Enhanced Zoom,…",
+      "discount_percent": 50,
+      "evidence": "audit_05.png"
+    },
+    {
+      "id": "grid_5",
+      "name": "Blink Mini 2K+ (newest model) – Plug-in Home & Pet Indoor Securi…",
+      "discount_percent": 60,
+      "evidence": "audit_05.png"
+    },
+    {
+      "id": "grid_6",
+      "name": "Ring Wired Doorbell (newest model), Retinal 2K with wide-angl…",
+      "discount_percent": 50,
+      "evidence": "audit_06.png"
+    },
+    {
+      "id": "grid_7",
+      "name": "Amazon Echo Dot Max (newest model), Alexa speaker with room-…",
+      "discount_percent": 33,
+      "evidence": "audit_06.png"
+    },
+    {
+      "id": "grid_8",
+      "name": "Ring Battery Doorbell 4K Pro (newest model), Retinal 4K with…",
+      "discount_percent": 43,
+      "evidence": "audit_06.png"
+    },
+    {
+      "id": "grid_9",
+      "name": "Ring Battery Doorbell 2K Plus (newest model), Retinal 2K with…",
+      "discount_percent": 54,
+      "evidence": "audit_06.png"
+    },
+    {
+      "id": "grid_10",
+      "name": "Blink Battery Doorbell 2K+ (newest model) — Wireless video doorbell…",
+      "discount_percent": 56,
+      "evidence": "audit_06.png"
+    },
+    {
+      "id": "grid_11",
+      "name": "Ring Pan-Tilt Indoor Cam — See all around your home or business wi…",
+      "discount_percent": 50,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_12",
+      "name": "Blink Outdoor 4 XR – two-year battery wireless camera with 4x…",
+      "discount_percent": 65,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_13",
+      "name": "Amazon eero 7 dual-band mesh Wi-Fi 7 router (newest model) - S…",
+      "discount_percent": 15,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_14",
+      "name": "Blink Outdoor XR+ — Extended Range Wireless Outdoor 4 Camer…",
+      "discount_percent": 65,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_15",
+      "name": "Ring Chime — Enhanced audio for real-time alerts you can hear fro…",
+      "discount_percent": 20,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_16",
+      "name": "Amazon Fire HD 8 tablet (newest model), 8” HD Display, 4GB memo…",
+      "discount_percent": 38,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_17",
+      "name": "Amazon Echo Dot Kids (newest model), Smart speaker to enjoy a…",
+      "discount_percent": 33,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_18",
+      "name": "Amazon Fire HD 8 Kids tablet, ages 3-7 | 4GB memory, includes…",
+      "discount_percent": 44,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_19",
+      "name": "Amazon Fire HD 10 Kids tablet (newest model) ages 3-7 | Bright…",
+      "discount_percent": 43,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_20",
+      "name": "Ring Wired Doorbell 2K Plus (Newest Model) — Retinal 2K with…",
+      "discount_percent": 50,
+      "evidence": "audit_07.png"
+    },
+    {
+      "id": "grid_21",
+      "name": "Amazon Fire TV Cube, with AI-powered Fire TV Search, Hands-f…",
+      "discount_percent": 55,
+      "evidence": "audit_08.png"
+    },
+    {
+      "id": "grid_22",
+      "name": "Hisense 100\" U6 Pro Series Mini‑LED ULED 4K UHD HDR Gami…",
+      "discount_percent": 16,
+      "evidence": "audit_08.png"
+    },
+    {
+      "id": "grid_23",
+      "name": "Amazon Kindle Scribe 32GB (newest model) — 11” display with…",
+      "discount_percent": 24,
+      "evidence": "audit_08.png"
+    },
+    {
+      "id": "grid_24",
+      "name": "Amazon Fire TV Soundbar Plus (newest model) with built-in sub…",
+      "discount_percent": 44,
+      "evidence": "audit_08.png"
+    },
+    {
+      "id": "grid_25",
+      "name": "Amazon Kindle Colorsoft Kids 16 GB (2024 model) – Lightweight, c…",
+      "discount_percent": 30,
+      "evidence": "audit_08.png"
+    },
+    {
+      "id": "grid_26",
+      "name": "Ring Solar Panel (2nd Generation), 4W for Outdoor Cam Plus, Outdo…",
+      "discount_percent": 20,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_27",
+      "name": "Quick Release Battery Pack — Compatible with all battery-pow…",
+      "discount_percent": 20,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_28",
+      "name": "Amazon eero Max 7 mesh wifi system (newest model) - Support…",
+      "discount_percent": 30,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_29",
+      "name": "INSIGNIA 32\" Class F20 Series LED HD Smart Fire TV, Voice Remote…",
+      "discount_percent": 13,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_30",
+      "name": "Amazon eero 6+ mesh wifi system - Supports internet plans up to a…",
+      "discount_percent": 28,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_31",
+      "name": "Blink Outdoor 4 Floodlight Camera — Wireless smart security camer…",
+      "discount_percent": 60,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_32",
+      "name": "Blink Wired Doorbell 2K+ (newest model) — Head-to-Toe 2K video d…",
+      "discount_percent": 56,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_33",
+      "name": "Ring Outdoor Cam 4K Pro (newest model), Plug-In, Retinal 4K with w…",
+      "discount_percent": 35,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_34",
+      "name": "Amazon eero Outdoor 7 dual-band mesh wifi router (newest model),…",
+      "discount_percent": 23,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_35",
+      "name": "Amazon Kindle Kids 16GB (2024 model) - If it breaks, we will repla…",
+      "discount_percent": 32,
+      "evidence": "audit_09.png"
+    },
+    {
+      "id": "grid_36",
+      "name": "INSIGNIA 65-inch Class QF Series LED 4K UHD QLED Smart Fire TV…",
+      "discount_percent": 14,
+      "evidence": "audit_10.png"
+    },
+    {
+      "id": "grid_37",
+      "name": "Amazon Smart Thermostat, Save money and energy, Works with Al…",
+      "discount_percent": 29,
+      "evidence": "audit_10.png"
+    },
+    {
+      "id": "grid_38",
+      "name": "Amazon Fire TV Stick 4K (newest model), simple 4K streaming, ne…",
+      "discount_percent": 50,
+      "evidence": "audit_10.png"
+    },
+    {
+      "id": "grid_39",
+      "name": "Amazon Adjustable Stand | Designed for Amazon Echo Show…",
+      "discount_percent": 25,
+      "evidence": "audit_10.png"
+    },
+    {
+      "id": "grid_40",
+      "name": "Amazon Echo Studio (newest model), Immersive spatial audio…",
+      "discount_percent": 18,
+      "evidence": "audit_10.png"
+    },
+    {
+      "id": "grid_41",
+      "name": "Amazon Fire TV Soundbar, 2.0 speaker with DTS Virtual:X and D…",
+      "discount_percent": 33,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_42",
+      "name": "Blink Wired Floodlight Camera, Smart security camera, 2600 lu…",
+      "discount_percent": 70,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_43",
+      "name": "Ring Window & Door Sensor (newest model) 6-pack, protect e…",
+      "discount_percent": 43,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_44",
+      "name": "Amazon Ember 40\" 2-Series with Fire TV (newest model), HD smart…",
+      "discount_percent": 28,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_45",
+      "name": "Amazon Kindle Paperwhite and Kindle Colorsoft Case, Lightweig…",
+      "discount_percent": 27,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_46",
+      "name": "TCL 55\" QM64L High Contrast QD-MINI-LED 4K AI Smart Fire TV | 14…",
+      "discount_percent": 18,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_47",
+      "name": "Ring Solar Charger — Compatible with Battery Doorbell (newest m…",
+      "discount_percent": 20,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_48",
+      "name": "Ring Spotlight Cam 4K Pro (newest model), Plug-In, Home or busines…",
+      "discount_percent": 28,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_49",
+      "name": "Amazon eero Pro 6E mesh wifi system - Supports internet plans…",
+      "discount_percent": 26,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_50",
+      "name": "Blink Mini Pan-Tilt Camera (newest model), Rotating indoor plug-in s…",
+      "discount_percent": 40,
+      "evidence": "audit_11.png"
+    },
+    {
+      "id": "grid_51",
+      "name": "Amazon Plant-Based Leather Case- Lightweight, Protective Co…",
+      "discount_percent": 33,
+      "evidence": "audit_12.png"
+    },
+    {
+      "id": "grid_52",
+      "name": "TCL 55-Inch F8D Series 120Hz 4K UHD QLED Smart Fire TV, HDR, 55…",
+      "discount_percent": 16,
+      "evidence": "audit_12.png"
+    },
+    {
+      "id": "grid_53",
+      "name": "Official Luna Wireless Controller",
+      "discount_percent": 43,
+      "evidence": "audit_12.png"
+    },
+    {
+      "id": "grid_54",
+      "name": "Amazon Fire TV Alexa Voice Remote Pro (newest model) with…",
+      "discount_percent": 43,
+      "evidence": "audit_12.png"
+    },
+    {
+      "id": "grid_55",
+      "name": "Amazon Echo Show 5 Kids (newest model), Designed for kids, Design…",
+      "discount_percent": 45,
+      "evidence": "audit_12.png"
+    },
+    {
+      "id": "grid_56",
+      "name": "Amazon Kindle Case, Thin and Lightweight, Foldable Protective…",
+      "discount_percent": 31,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_57",
+      "name": "Ring Chime Plus (newest model) — Crisp, clear audio alerts for selec…",
+      "discount_percent": 20,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_58",
+      "name": "Amazon Fire TV Soundbar Plus with subwoofer and surround so…",
+      "discount_percent": 22,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_59",
+      "name": "Amazon Fire TV Soundbar Plus with subwoofer (newest model),…",
+      "discount_percent": 37,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_60",
+      "name": "Like-New Amazon Kindle Scribe (64GB) - Your notes, documents a…",
+      "discount_percent": 21,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_61",
+      "name": "Echo Show 5 (3rd Gen) Adjustable Stand with USB-C Charging Port |…",
+      "discount_percent": 26,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_62",
+      "name": "Amazon eero 6 mesh wifi router - Supports internet plans up to 90…",
+      "discount_percent": 39,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_63",
+      "name": "Amazon Kindle Scribe Executive Folio Cover with Magnetic Attach…",
+      "discount_percent": 21,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_64",
+      "name": "Ring Quick Release Ultra Battery Pack — Compatible with Battery…",
+      "discount_percent": 20,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_65",
+      "name": "Ring Peephole Cam 2K (Newest Model), replaces physical peepho…",
+      "discount_percent": 50,
+      "evidence": "audit_13.png"
+    },
+    {
+      "id": "grid_66",
+      "name": "Amazon 9W Official OEM USB Charger and Power Adapter for F…",
+      "discount_percent": 25,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_67",
+      "name": "Toshiba 75\" G700 Series ArtVision 4K UHD Smart Fire TV (75G700SU…",
+      "discount_percent": 50,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_68",
+      "name": "Made for Amazon Stand with USB-C and USB-A Charging Ports for E…",
+      "discount_percent": 17,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_69",
+      "name": "Ring Flood & Freeze Sensor, get alerts for leaks & freezing temps…",
+      "discount_percent": 38,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_70",
+      "name": "TCL 75-Inch F7D Series QLED 4K UHD HDR Smart Fire TV, 75F7D (2…",
+      "discount_percent": 16,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_71",
+      "name": "Toshiba 75\" Z670 Series Mini-LED 4K UHD Smart Fire TV (75Z670R,…",
+      "discount_percent": 15,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_72",
+      "name": "Hisense 100\" Class E6 Series QLED 4K UHD Smart Fire TV (100E6QF,…",
+      "discount_percent": 21,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_73",
+      "name": "Ring Wired Doorbell 4K Elite (newest model), Native Power ov…",
+      "discount_percent": 30,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_74",
+      "name": "Amazon Kindle Paperwhite and Kindle Colorsoft Case, Lightweig…",
+      "discount_percent": 34,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_75",
+      "name": "Amazon Echo Glow (newest model), Night light for kids, Work…",
+      "discount_percent": 23,
+      "evidence": "audit_14.png"
+    },
+    {
+      "id": "grid_76",
+      "name": "Amazon Smart Air Quality Monitor, Detects temperature, humidity, c…",
+      "discount_percent": 33,
+      "evidence": "audit_15.png"
+    },
+    {
+      "id": "grid_77",
+      "name": "Hisense 40-Inch Class QD4 Series Hi-QLED FHD Smart Fire TV (40Q…",
+      "discount_percent": 37,
+      "evidence": "audit_15.png"
+    },
+    {
+      "id": "grid_78",
+      "name": "Ring Outside Door Sensor, monitor gates, garages & sheds, weather-…",
+      "discount_percent": 50,
+      "evidence": "audit_15.png"
+    },
+    {
+      "id": "grid_79",
+      "name": "Ring Sensors: Glass Break Sensor (newest model) – Instant notifica…",
+      "discount_percent": 50,
+      "evidence": "audit_15.png"
+    },
+    {
+      "id": "grid_80",
+      "name": "Ring Motion Detector, get instant intruder alerts, pet-friendly mod…",
+      "discount_percent": 30,
+      "evidence": "audit_15.png"
+    },
+    {
+      "id": "grid_81",
+      "name": "Blink Video Doorbell – Head-to-toe HD view, two-year battery life, an…",
+      "discount_percent": 55,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_82",
+      "name": "Ring Spotlight Battery — Motion-activated spotlight, bright LEDs,…",
+      "discount_percent": 25,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_83",
+      "name": "Ring Pathlight Battery — Motion-activated pathlight, bright LEDs,…",
+      "discount_percent": 20,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_84",
+      "name": "Amazon Kindle Scribe Folio Cover with Magnetic Attach, Functional…",
+      "discount_percent": 25,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_85",
+      "name": "Amazon Kindle Scribe Folio Cover with Magnetic Attach, Designed…",
+      "discount_percent": 17,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_86",
+      "name": "Made for Amazon Battery Base, for Echo Dot (4th & 5th generation)",
+      "discount_percent": 25,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_87",
+      "name": "Ring Solar Pathlight — Motion-activated pathlight, bright LEDs,…",
+      "discount_percent": 20,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_88",
+      "name": "Ring Floodlight Wired — Motion-activated floodlight, bright LEDs,…",
+      "discount_percent": 29,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_89",
+      "name": "Made for Amazon Frame for Echo Show 21 (2024 Release)",
+      "discount_percent": 26,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_90",
+      "name": "Ring Sensors: Car Tracker and Alarm — Vehicle Location Trackin…",
+      "discount_percent": 20,
+      "evidence": "audit_16.png"
+    },
+    {
+      "id": "grid_91",
+      "name": "Like-New Amazon eero mesh wifi router - Supports internet plans…",
+      "discount_percent": 44,
+      "evidence": "audit_17.png"
+    },
+    {
+      "id": "grid_92",
+      "name": "Antiglare Screen Protector (2 Pack), for Amazon Kindle Paperw…",
+      "discount_percent": 29,
+      "evidence": "audit_17.png"
+    },
+    {
+      "id": "grid_93",
+      "name": "Ring A19 Smart LED Bulb — Energy-efficient with 800 lumen…",
+      "discount_percent": 33,
+      "evidence": "audit_17.png"
+    },
+    {
+      "id": "grid_94",
+      "name": "Harry Potter Amazon Fire HD 10 tablet 32GB (newest model) | Offi…",
+      "discount_percent": 30,
+      "evidence": "audit_17.png"
+    },
+    {
+      "id": "grid_95",
+      "name": "Ring Solar Panel — Compatible with Battery Doorbell (newest m…",
+      "discount_percent": 20,
+      "evidence": "audit_17.png"
+    },
+    {
+      "id": "grid_96",
+      "name": "Ring Smart Plug, turn lights into security lights, control from any…",
+      "discount_percent": 20,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_97",
+      "name": "Ring Transformer — Low-voltage transformer that connects non-…",
+      "discount_percent": 20,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_98",
+      "name": "Sling Bag for Kindle",
+      "discount_percent": 50,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_99",
+      "name": "Ring Temperature & Humidity Sensor, monitor mold risk & indo…",
+      "discount_percent": 29,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_100",
+      "name": "Ring Solar Steplight — Motion-activated steplight, bright LEDs,…",
+      "discount_percent": 20,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_101",
+      "name": "Like-New Ring Outdoor Cam Plus, Battery (newest model), Home or…",
+      "discount_percent": 22,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_102",
+      "name": "Ring Air Quality Monitor, know what you’re breathing, CO & PM 2…",
+      "discount_percent": 21,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_103",
+      "name": "Ring Sensors: Panic Button (newest model) – Install anywher…",
+      "discount_percent": 50,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_104",
+      "name": "Ring Outdoor Smart Plug",
+      "discount_percent": 20,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_105",
+      "name": "Kindle Scribe Pen Replacement Tips- Balanced Tip",
+      "discount_percent": 24,
+      "evidence": "audit_18.png"
+    },
+    {
+      "id": "grid_106",
+      "name": "Made for Amazon Frame for Echo Show 15 (Gen 2, 2024 Release)",
+      "discount_percent": 35,
+      "evidence": "audit_19.png"
+    },
+    {
+      "id": "grid_107",
+      "name": "Amazon Kindle Scribe Pen, Ergonomically Crafted Design for…",
+      "discount_percent": 24,
+      "evidence": "audit_19.png"
+    },
+    {
+      "id": "grid_108",
+      "name": "Ring Smart Light Switch, turn lights into a security deterrent, c…",
+      "discount_percent": 17,
+      "evidence": "audit_19.png"
+    },
+    {
+      "id": "grid_109",
+      "name": "Made for Amazon Battery Base, for Echo Dot (5th generation)",
+      "discount_percent": 25,
+      "evidence": "audit_19.png"
+    },
+    {
+      "id": "grid_110",
+      "name": "Made for Amazon Extension Cable, 10' Length, for Echo Show 15 (Gen…",
+      "discount_percent": 23,
+      "evidence": "audit_19.png"
+    },
+    {
+      "id": "grid_111",
+      "name": "Ring Motion Sensor — Battery-powered outdoor sensor for Ring…",
+      "discount_percent": 20,
+      "evidence": "audit_19.png"
+    },
+    {
+      "id": "grid_112",
+      "name": "Made for Amazon Tilt Stand for Echo Hub",
+      "discount_percent": 17,
+      "evidence": "audit_19.png"
+    }
+  ],
+  "ranking": [
+    "grid_29",
+    "grid_36",
+    "grid_13"
+  ]
+}

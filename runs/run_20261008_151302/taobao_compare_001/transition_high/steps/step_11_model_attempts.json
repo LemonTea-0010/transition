@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个区间候选：第1—3行洁厕宝¥1.31（第2行，1000+人购买）；第3—6行抽纸¥1.41（第5行，1万+人购买）；第6—9行走珠笔¥1.41（第6行，购买人数未见明确标注）。按购买人数降序，抽纸1万+人最多，推荐抽纸¥1.41（第5行），理由是购买人数最多且价格仅比最低价高0.1元。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终报告。\"}}",
+    "valid": true
+  }
+]

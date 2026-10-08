@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Page shows 'Shop Prime Big Deals on Amazon devices'. Visible deals: Ring 60% off, Kindle 32% off, Echo Show 40% off, Echo 50% off. Need to scroll to see all device deals.\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"Scroll down to view more device deals\"}, \"observations\": [{\"name\": \"Ring\", \"discount_percent\": 60}, {\"name\": \"Kindle\", \"discount_percent\": 32}, {\"name\": \"Echo Show\", \"discount_percent\": 40}, {\"name\": \"Echo\", \"discount_percent\": 50}], \"ranking\": []}",
+    "valid": true
+  }
+]

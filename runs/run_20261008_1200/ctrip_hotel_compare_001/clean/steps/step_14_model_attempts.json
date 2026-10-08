@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终推荐：候选①如家精选酒店(上海国家会展中心嘉怡路地铁站店)。理由：三家候选中其评分4.8最高（候选②4.5、候选③4.7），按优先规则评分最高者直接胜出，无需再比较点评数和价格。仅进行信息浏览与比较，未进行任何预订操作。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，已给出最终推荐结果，停止操作\"}}",
+    "valid": false,
+    "error": "Cannot skip a subtask status: current_subtask must be S4"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"三家候选信息已记录：①如家精选酒店(上海国家会展中心嘉怡路地铁站店)评分4.8、1,619条点评、¥241起；②汉庭酒店(上海江宁路店)评分4.5、287条点评、¥258起；③如家酒店·neo(上海川黄路川沙地铁站店)评分4.7、4,056条点评、¥167起。比较完成：候选①评分4.8最高，直接胜出，无需比较点评数和价格。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"非导航动作，推进到S5最终推荐阶段\"}}",
+    "valid": true
+  }
+]

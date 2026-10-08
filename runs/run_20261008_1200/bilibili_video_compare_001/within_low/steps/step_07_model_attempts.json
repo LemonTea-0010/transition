@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"All three candidates recorded: (1) 【万字合集】午夜梦回，恶灵古堡！ by 迷影区间, 197.9万, 03:38:51; (2) 去了一趟山西。 by 影视飓风, 563.5万, 22:13; (3) 【梗百科】娘化马尔福是咋回事？ by 梗百科, 145.2万, 02:02. All three show play counts; comparing now: 563.5万 > 197.9万 > 145.2万, so candidate 2 leads. A popup appeared; dismissing it to complete S4.\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"click\", \"x\": 780, \"y\": 471, \"direction\": null, \"text\": null, \"target_description\": \"Dismiss popup by clicking 查看 button\"}}",
+    "valid": true
+  }
+]

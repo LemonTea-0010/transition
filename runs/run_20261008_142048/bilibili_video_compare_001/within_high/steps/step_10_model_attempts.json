@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"最终推荐：探秘日本最贵关东煮，价格差50倍！到底有多好吃？（UP主：Meetfood觅食，播放量728万，时长09:44）。理由：三个候选均显示播放量，728万 > 79.5万 > 75.8万，候选3播放量最高，故推荐候选3。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"任务完成，输出最终推荐结果\"}}",
+    "valid": true
+  }
+]

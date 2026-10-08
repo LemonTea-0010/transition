@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"三家候选已记录：1) 维也纳国际酒店(上海浦东机场店) 4.7分/18,517条点评/¥293起；2) 全季酒店(上海顾村公园菊联路店) 4.5分/680条点评/¥35开头；3) 如家精选酒店(上海国家会展中心嘉怡路地铁站店) 4.8分/1,619条点评/¥241起。比较：如家精选4.8分最高，优先推荐。页面出现比较提示弹窗，需关闭后完成S4。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"click\", \"x\": 780, \"y\": 470, \"direction\": null, \"text\": null, \"target_description\": \"点击弹窗上的\\\"查看\\\"按钮关闭提示弹窗，继续S4比较流程\"}}",
+    "valid": true
+  }
+]

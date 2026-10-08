@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"S4比较完成：第一屏最高为去了一趟山西563.6万/影视飓风/22:13；第二屏最高为幸亏我暂停的够快2110.9万/小猪佩奇/01:30；第三屏最高为伍六七1.0亿/哔哩哔哩国创/05:09。1.0亿 > 2110.9万 > 563.6万，伍六七播放量最高，无需平局处理。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S4比较完成，进入S5报告最终推荐及理由\"}}",
+    "valid": true
+  }
+]

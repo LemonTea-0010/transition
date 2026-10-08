@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第1—5组候选为第5个维也纳国际酒店(上海外高桥自贸区杨高北路店)广告，¥244起，2,532条点评。当前屏幕显示上海静安寺南京西路CitiGO欢阁酒店¥927起(6,229条点评)、上海人民广场大世界地铁站亚朵酒店¥1,121起(1,996条点评)，下方出现热门酒店推荐区，主列表可能已接近尾部。需继续向下滚动确认第6—10个卡片的连续序号。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片以确认第6—10个序号\"}}",
+    "valid": true
+  }
+]

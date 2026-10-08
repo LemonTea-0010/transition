@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"Finalized the three lowest-discount device deals from all collected data: INSIGNIA 32\\\" Class F20 Series LED HD Smart Fire TV at 13%, INSIGNIA 65-inch Class QF Series LED 4K UHD OLED at 14%, and Amazon eero 7 at 15%.\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"Task complete: final ranking output produced\"}, \"observations\": [], \"ranking\": [{\"name\": \"INSIGNIA 32\\\" Class F20 Series LED HD Smart Fire TV\", \"discount_percent\": 13}, {\"name\": \"INSIGNIA 65-inch Class QF Series LED 4K UHD OLED\", \"discount_percent\": 14}, {\"name\": \"Amazon eero 7\", \"discount_percent\": 15}]}",
+    "valid": true
+  }
+]

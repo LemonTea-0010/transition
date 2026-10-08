@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"completed\", \"progress_summary\": \"S3已完成：组1(1-5)最低价为第5个如家neo川沙¥167/4,056条；组2(6-10)最低价为第9个非繁云居¥166/13条；组3(11-15)最低价为第12个浦东温德姆¥395/6,578条。三组候选均已记录。\", \"next_subtask\": \"S4\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S3完成，进入S4比较三组候选\"}}",
+    "valid": false,
+    "error": "S3 needs two prior in_progress decisions. Report S3 in_progress now, record the next group candidate, explicitly say which later group still remains, and scroll to it if needed. Complete S3 on a later decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：已记录组1(1-5)候选为第5个如家neo川沙¥167/4,056条，组2(6-10)候选为第9个非繁云居¥166/13条。组3(11-15)候选尚未在S3决策中正式记录，需滚动到第11-15个卡片确认。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第11-15个酒店卡片\"}}",
+    "valid": true
+  }
+]

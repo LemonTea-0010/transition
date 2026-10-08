@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"第1—3行最低价为洁厕宝¥1.31（第2行）；第3—6行最低价为抽纸¥1.41（第5行）。当前屏幕显示第6行（抽绳垃圾袋、天猫60抖币充值、一分购卷纸¥1.51、天猫柔纸巾、黑色红色双色直液式走珠笔、天猫中式陶瓷碗），第6行候选待记录，第7—9行尚未看到。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第7行及之后的商品卡片\"}}",
+    "valid": true
+  }
+]

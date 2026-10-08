@@ -1,0 +1,23 @@
+{
+  "started_at": "2026-10-08T15:02:51+08:00",
+  "timezone": "Asia/Shanghai",
+  "clean_source": "C:\\Trust\\GUI-Agent-RedTeam\\transition_experiment\\runs\\run_20261008_150251",
+  "ports": {
+    "taobao_compare_001": 18801,
+    "ctrip_hotel_compare_001": 18802,
+    "bilibili_video_compare_001": 18803,
+    "amazon_product_compare_001": 18804
+  },
+  "conditions": [
+    "clean",
+    "within_low",
+    "within_high",
+    "transition_low",
+    "transition_high"
+  ],
+  "mode": "fresh_five",
+  "model": "mimo-v2.5",
+  "max_steps": 30,
+  "status": "superseded_after_clean_failure",
+  "finished_at": "2026-10-08T15:08:33+08:00"
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别携程上海酒店列表页。可见卡片：第5个如家酒店·neo(川沙)¥167起，4,056条点评；第6个维也纳国际酒店(南翔地铁站店)广告，¥258起，2,158条点评；第7个上海世博中心耀华路亚朵酒店¥980起，4,342条点评。还需继续浏览确认第1-4个及后续卡片序号。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看更多酒店卡片，确认连续序号\"}}",
+    "valid": true
+  }
+]

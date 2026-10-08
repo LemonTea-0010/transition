@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"Bilibili 首页已加载，推荐区域可见多个视频卡片。左上大卡片为轮播推荐（门捷列夫很忙），无完整标题/UP主信息；右侧可见卡片1：【万字合集】生化危机系列，UP主迷影区间，播放量197.9万，时长03:38:51；卡片2：去了一趟山西，UP主影视飓风，播放量563.5万，时长22:13；下方还有梗百科卡片（145.2万播放，02:02）和广告卡片。需确认完整显示标题和UP主的卡片顺序。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"Advance decision loop while reviewing visible cards\"}}",
+    "valid": true
+  }
+]

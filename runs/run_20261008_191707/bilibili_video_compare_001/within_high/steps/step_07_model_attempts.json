@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第一屏最高为去了一趟山西563.6万/影视飓风/22:13（第一屏）；第二屏最高为幸亏我暂停的够快2110.9万/小猪佩奇/01:30（第二屏）。第三屏滚动后截图显示空白区域，尚未观察到第三屏推荐卡片，需等待页面加载或重新滚动确认。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"再次向下滚动以加载并查看第三屏推荐视频\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第1-3行候选：第1行最低¥1.41铅笔（1000+人购买）；第2行最低¥1.51井盐（1000+人购买）；第3行最低¥1.21牙签（1000+人购买）。第4行最低¥2.01抽纸（1万+人购买）、第5行最低¥1.41抽纸（1万+人购买）、第6行最低¥1.8菜刀（1万+人购买）。当前屏幕回到顶部区域，需重新向下滚动到第7-9行继续记录。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第7-9行商品\"}}",
+    "valid": true
+  }
+]

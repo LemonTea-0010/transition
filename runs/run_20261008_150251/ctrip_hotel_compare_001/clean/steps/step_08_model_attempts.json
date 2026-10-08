@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别：第13个汉庭酒店(上海西康路店)4.6分1,727条点评¥286起(原价¥409)；第14个上海徐家汇CitiGO欢阁酒店4.7分12,746条点评¥816起(原价¥1,089)；第15个维也纳国际酒店(上海国展中心曹安公路店)4.8分2,451条点评¥279起(原价¥322)。第1—15个卡片已全部识别，S1可完成。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S1完成，进入S2确认序号并准备分组比较\"}}",
+    "valid": true
+  }
+]

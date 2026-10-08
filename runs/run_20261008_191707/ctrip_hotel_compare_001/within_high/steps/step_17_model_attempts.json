@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第3个如家精选¥241/1,619条、第4个汉庭¥258/287条、第5个维也纳国际(上海南翔地铁站店)¥258/2,158条(广告)。第6个为上海世博中心耀华路亚朵酒店¥980/4,342条。仍需确认第1、2个卡片以完成S1。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看第1、2个酒店卡片\"}}",
+    "valid": true
+  }
+]

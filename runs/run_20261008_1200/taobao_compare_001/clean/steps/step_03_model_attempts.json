@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"推荐区域可见多张卡片，均含标题、价格和购买人数。从上到下最先满足条件的三个候选为：①手提式抽绳垃圾袋（¥1.51，1000+人购买）；②天猫60抖币充值（¥4.55，5万+人购买）；③一分购卷纸（¥2.01，1000+人购买）。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"press\", \"x\": null, \"y\": null, \"direction\": null, \"text\": \"Escape\", \"target_description\": \"推进到S3，开始记录候选信息\"}}",
+    "valid": true
+  }
+]

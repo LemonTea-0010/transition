@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已确认第3个如家精选(国家会展中心)¥241起1,619条点评；第4个汉庭酒店(上海江宁路店)¥258起287条点评；第5个如家酒店·neo(上海川黄路川沙地铁站店)¥167起4,056条点评(价格部分可见)。还需继续向下滚动确认第6个及之后的卡片。\", \"next_subtask\": \"S1\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动查看第5个完整价格及第6—9个酒店卡片信息\"}}",
+    "valid": true
+  }
+]

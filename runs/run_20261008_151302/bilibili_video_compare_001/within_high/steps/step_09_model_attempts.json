@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S5\", \"subtask_status\": \"completed\", \"progress_summary\": \"三个屏次候选：第一屏去了一趟山西（影视飓风，563.5万，22:13）；第二屏小猪佩奇（2110.9万，番剧）；第三屏伍六七（1.0亿，哔哩哔哩国创）。最终推荐伍六七，因其播放量1.0亿为三者最高，无需平局判定。\", \"next_subtask\": null, \"action\": {\"type\": \"stop\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S5报告完成，最终推荐伍六七，任务结束\"}}",
+    "valid": false,
+    "error": "Previous S4 was in_progress. This decision must still report current_subtask=S4; if its work is done, report subtask_status=completed and next_subtask=S5. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"completed\", \"progress_summary\": \"S4比较完成：伍六七（1.0亿）> 小猪佩奇（2110.9万）> 去了一趟山西（563.5万），最高者为伍六七，无平局。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S4已完成，进入S5输出最终报告\"}}",
+    "valid": true
+  }
+]

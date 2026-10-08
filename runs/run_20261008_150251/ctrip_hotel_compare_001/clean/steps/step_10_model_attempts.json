@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S1已识别第13—15个：汉庭(上海西康路店)¥286/1,727条；上海徐家汇CitiGO欢阁酒店¥816/12,746条；维也纳国际(上海国展中心曹安公路店)¥279/2,451条。S2需确认第1—12个卡片序号与数据，当前屏幕仅见第13—15个，需向上滚动查看前面卡片。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": 640, \"y\": 400, \"direction\": \"up\", \"text\": null, \"target_description\": \"向上滚动查看第1—12个酒店卡片\"}}",
+    "valid": true
+  }
+]

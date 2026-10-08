@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S3\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"S3进行中：第一屏候选已记录——去了一趟山西/影视飓风/563.6万/22:13为第一屏最高，另有生化危机系列/迷影区间/197.9万/03:38:51、娘化马尔福/梗百科/145.2万/02:02。第二屏和第三屏尚未观察。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": \"down\", \"text\": null, \"target_description\": \"向下滚动一个视口高度查看第二屏推荐视频\"}}",
+    "valid": false,
+    "error": "Previous S2 was in_progress. This decision must still report current_subtask=S2; if its work is done, report subtask_status=completed and next_subtask=S3. Use think if no browser input is needed. Begin the next subtask only in the following decision."
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S2\", \"subtask_status\": \"completed\", \"progress_summary\": \"S2完成：第一屏推荐区已确认，有效候选为生化危机系列197.9万/迷影区间/03:38:51、去了一趟山西563.6万/影视飓风/22:13、娘化马尔福145.2万/梗百科/02:02；广告卡和轮播卡已排除。屏次划分：初始视口为第一屏，滚动一次为第二屏，再滚动一次为第三屏。\", \"next_subtask\": \"S3\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S2 setup complete, advance to S3 to collect screen candidates\"}}",
+    "valid": true
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S4\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"三个屏次候选已记录：第一屏去了一趟山西(563.5万, 22:13, 影视飓风)；第二屏幸亏我暂停的够快(2110.9万, 小猪佩奇第十一季)；第三屏伍六七(1.0亿, 哔哩哔哩国创)。比较播放量：伍六七(1.0亿) > 幸亏我暂停的够快(2110.9万) > 去了一趟山西(563.5万)，最高者为第三屏伍六七。\", \"next_subtask\": \"S5\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": \"S4比较完成，伍六七(1.0亿)为最高播放量，进入S5报告\"}}",
+    "valid": true
+  }
+]

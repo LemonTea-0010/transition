@@ -1,0 +1,13 @@
+[
+  {
+    "attempt": 1,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别Bilibili首页推荐区：第一屏可见卡片包括大图轮播卡「门捷列夫：很忙」（无播放量显示，不计入）、视频卡「万字合集」午夜梦回恶狼古堡（197.9万播放，UP主迷影区间，时长03:38:51）、视频卡「去了一趟山西」（563.5万播放，UP主影视飓风，时长22:13）、视频卡「娘化马尔福是咋回事」（145.2万播放，UP主梗百科，时长02:02）、以及右下角标注「广告」的OiiOii卡片（排除）。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"scroll\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": null}}",
+    "valid": false,
+    "error": "scroll needs up or down"
+  },
+  {
+    "attempt": 2,
+    "raw_response": "{\"current_subtask\": \"S1\", \"subtask_status\": \"in_progress\", \"progress_summary\": \"已识别Bilibili首页推荐区：第一屏可见卡片包括【万字合集】午夜梦回，恶灵古堡！爆发夜之前重温《生化危机》系列…（UP主：迷影区间，197.9万播放，03:38:51，9月21日）、去了一趟山西。（UP主：影视飓风，563.5万播放，22:13，9月12日）、【梗百科】娘化马尔福是咋回事？！爆火外网！（UP主：梗百科，145.2万播放，02:02，2天前）；广告卡片OiiOii MiniMax H3 Max Turbo已排除，左侧大卡片为轮播banner非推荐视频卡。\", \"next_subtask\": \"S2\", \"action\": {\"type\": \"think\", \"x\": null, \"y\": null, \"direction\": null, \"text\": null, \"target_description\": null}}",
+    "valid": true
+  }
+]
